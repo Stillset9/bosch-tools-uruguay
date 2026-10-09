@@ -26,8 +26,11 @@
   width: 100%;
   aspect-ratio: 1;
   object-fit: contain;
-  padding: 1rem;
-  background: #f5f6f8;
+  object-position: center;
+  padding: 1.1rem;
+  background:
+    linear-gradient(180deg, #ffffff 0%, #f3f5f8 100%);
+  image-rendering: auto;
 }
 
 .product-card__body {

@@ -20,8 +20,10 @@
 
 .product-detail__photo {
   object-fit: contain !important;
-  padding: 1.5rem;
-  background: #f5f6f8;
+  object-position: center;
+  padding: 1.75rem;
+  background: linear-gradient(180deg, #ffffff 0%, #f3f5f8 100%);
+  image-rendering: auto;
 }
 
 .product-detail__credit {

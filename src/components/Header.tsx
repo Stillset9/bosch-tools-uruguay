@@ -93,11 +93,26 @@ export function Header() {
       <div className="site-header__bar">
         <div className="container site-header__inner">
           <Link to="/" className="brand" aria-label={`${SITE.name} — inicio`}>
-            <span className="brand__mark" aria-hidden="true">
-              B
-            </span>
+            <img
+              className="brand__logo"
+              src={`${import.meta.env.BASE_URL}brand/bosch-logo.svg`}
+              alt="Bosch"
+              width={140}
+              height={32}
+            />
             <span className="brand__text">
-              <strong>BOSCH TOOLS</strong>
+              <strong>
+                BOSCH TOOLS
+                <img
+                  className="brand__flag"
+                  src={`${import.meta.env.BASE_URL}brand/flag-uruguay.svg`}
+                  alt=""
+                  width={22}
+                  height={15}
+                  title="Uruguay"
+                />
+                <span className="sr-only">Uruguay</span>
+              </strong>
               <small>Uruguay · Catálogo profesional</small>
             </span>
           </Link>

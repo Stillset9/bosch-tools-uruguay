@@ -50,11 +50,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Bosch Go2",
-    "image": "/productos/gt-r2-3.jpg",
+    "image": "/productos/web/web-bosch-go2.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Atornillador",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "0601390909",
@@ -112,11 +113,12 @@
     "batterySystem": "12V System",
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GWB 12V-10 SB",
-    "image": "/productos/gt-r3-18.jpg",
+    "image": "/productos/web/web-gwb-12v-10-sb.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Atornillador Angular Innalámbrico 12V",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "06019g80e5",
@@ -173,11 +175,12 @@
     "batterySystem": "12V System",
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GSR 120-LI",
-    "image": "/productos/gt-r4-4.jpg",
+    "image": "/productos/web/web-gsr-120-li.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Taladros/ Atornilladores Inalámbricos 12V",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "06019g80e1",
@@ -234,11 +237,12 @@
     "batterySystem": "12V System",
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GSR 120-LI",
-    "image": "/productos/gt-r5-5.jpg",
+    "image": "/productos/web/web-gsr-120-li.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Taladros/ Atornilladores Inalámbricos 12V",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "06019g80e0",
@@ -295,11 +299,12 @@
     "batterySystem": "12V System",
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GSR 120-LI",
-    "image": "/productos/gt-r6-6.jpg",
+    "image": "/productos/web/web-gsr-120-li.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Taladros/ Atornilladores Inalámbricos 12V",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "06019k30e1",
@@ -421,11 +426,12 @@
     "batterySystem": "12V System",
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GSB 120-LI",
-    "image": "/productos/gt-r8-7.jpg",
+    "image": "/productos/web/web-gsb-120-li.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Taladros Percutores/ Atornilladores Inalámbricos 12V",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "06019g81e1",
@@ -482,11 +488,12 @@
     "batterySystem": "12V System",
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GSB 120-LI",
-    "image": "/productos/gt-r9-8.jpg",
+    "image": "/productos/web/web-gsb-120-li.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Taladros Percutores/ Atornilladores Inalámbricos 12V",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "06019g91e0",
@@ -548,11 +555,12 @@
     "batterySystem": "12V System",
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GSB 12V-30",
-    "image": "/productos/gt-r10-9.jpg",
+    "image": "/productos/web/web-gsb-12v-30.png",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Taladros Percutores/ Atornilladores Inalámbricos 12V",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "06019k31e6",
@@ -617,11 +625,12 @@
     "batterySystem": "18V System",
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GSB 185-LI",
-    "image": "/productos/gt-r11-10.jpg",
+    "image": "/productos/web/web-gsb-185-li.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Taladros Percutores/ Atornilladores Inalámbricos 18V",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "06019k91e2",
@@ -678,11 +687,12 @@
     "batterySystem": "18V System",
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GSB 183-LI",
-    "image": "/productos/gt-r12-133.png",
+    "image": "/productos/web/web-gsb-183-li.png",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Taladros Percutores/ Atornilladores Inalámbricos 18V",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "06019h51e2",
@@ -744,11 +754,12 @@
     "batterySystem": "18V System",
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GSB 18V-50",
-    "image": "/productos/gt-r13-11.jpg",
+    "image": "/productos/web/web-gsb-18v-50.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Taladros Percutores/ Atornilladores Inalámbricos 18V",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "06019n31e5",
@@ -810,7 +821,7 @@
     "batterySystem": "18V System",
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GSB 18V-65 2 BAT",
-    "image": "/productos/gt-r14-158.jpg",
+    "image": "/productos/gt-r14-158-hq.png",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Taladros Percutores/ Atornilladores Inalámbricos 18V",
@@ -880,11 +891,12 @@
     "batterySystem": "18V System",
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GSB 18V-150 C",
-    "image": "/productos/gt-r15-12.png",
+    "image": "/productos/web/web-gsb-18v-150-c.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Taladros Percutores/ Atornilladores Inalámbricos 18V",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "06019k70e1",
@@ -937,11 +949,12 @@
     "batterySystem": "18V System",
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GTB 185-LI",
-    "image": "/productos/gt-r16-107.png",
+    "image": "/productos/web/web-gtb-185-li.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Atornilladores Yeso / Drywall 18V",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "06019k70e0",
@@ -994,11 +1007,12 @@
     "batterySystem": "18V System",
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GTB 185-LI",
-    "image": "/productos/gt-r17-106.jpg",
+    "image": "/productos/web/web-gtb-185-li.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Atornilladores Yeso / Drywall 18V",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "06019f0000",
@@ -1048,7 +1062,7 @@
     "batterySystem": "12V System",
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GDR 120-LI",
-    "image": "/productos/gt-r18-13.jpg",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Atornilladores y Llaves de Impacto Inalámbricos 12V",
@@ -1155,7 +1169,7 @@
     "batterySystem": "18V System",
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GDS 18V-350",
-    "image": "/productos/gt-r20-187.jpg",
+    "image": "/productos/gt-r20-187-hq.png",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Atornilladores y Llaves de Impacto Inalámbricos 18V",
@@ -1222,11 +1236,12 @@
     "batterySystem": "18V System",
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GDS 18V-400",
-    "image": "/productos/gt-r21-14.jpg",
+    "image": "/productos/web/web-gds-18v-400.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Atornilladores y Llaves de Impacto Inalámbricos 18V",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "06019j83e1",
@@ -1289,7 +1304,7 @@
     "batterySystem": "18V System",
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GDS 18V-1000 H",
-    "image": "/productos/gt-r22-170.jpg",
+    "image": "/productos/gt-r22-170-hq.png",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Atornilladores y Llaves de Impacto Inalámbricos 18V",
@@ -1356,11 +1371,12 @@
     "batterySystem": "18V System",
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GDS 18V-1050 H",
-    "image": "/productos/gt-r23-15.jpg",
+    "image": "/productos/web/web-gds-18v-1050-h.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Atornilladores y Llaves de Impacto Inalámbricos 18V",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "06019m10e0",
@@ -1423,7 +1439,7 @@
     "batterySystem": "18V System",
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GDS 18V-1600 H",
-    "image": "/productos/gt-r24-169.jpg",
+    "image": "/productos/gt-r24-169-hq.png",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Atornilladores y Llaves de Impacto Inalámbricos 18V",
@@ -1493,7 +1509,7 @@
     "batterySystem": "18V System",
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GSB 185-LI +GDR 18V-215 +Maletín metálic",
-    "image": "/productos/gt-r25-168.jpg",
+    "image": "/productos/gt-r25-168-hq.png",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Atornilladores y Llaves de Impacto Inalámbricos 18V",
@@ -1563,11 +1579,12 @@
     "batterySystem": "12V System",
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "KIT IMPACTO",
-    "image": "/productos/gt-r26-129.png",
+    "image": "/productos/web/web-kit-impacto.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Atornilladores y Llaves de Impacto Inalámbricos 12V",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "06019n33e0",
@@ -1634,7 +1651,7 @@
     "batterySystem": "18V System",
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GSB 18V-65 +GDX 18V-285 +Maletín",
-    "image": "/productos/gt-r27-174.jpg",
+    "image": "/productos/gt-r27-174-hq.png",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Atornilladores y Llaves de Impacto Inalámbricos 18V",
@@ -1688,7 +1705,7 @@
     "batterySystem": "18V System",
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GBH 18V-18 X",
-    "image": "/productos/gt-r28-176.jpg",
+    "image": "/productos/gt-r28-176-hq.png",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Taladros Percutores",
@@ -1746,11 +1763,12 @@
     "batterySystem": "18V System",
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GBH 180-LI",
-    "image": "/productos/gt-r29-16.jpg",
+    "image": "/productos/web/web-gbh-180-li.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Martillos Perforadores Inalámbricos SDS-Plus 18V",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "06119240e0",
@@ -1808,11 +1826,12 @@
     "batterySystem": "18V System",
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GBH 185-LI",
-    "image": "/productos/gt-r30-17.jpg",
+    "image": "/productos/web/web-gbh-185-li.png",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Martillos Perforadores Inalámbricos SDS-Plus 18V",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "06119231e1",
@@ -1878,11 +1897,12 @@
     "batterySystem": "18V System",
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GBH 187-LI",
-    "image": "/productos/gt-r31-110.png",
+    "image": "/productos/web/web-gbh-187-li.png",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Martillos Perforadores Inalámbricos SDS-Plus + Cilindricas/hexa 18V",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "0611919003",
@@ -1949,7 +1969,7 @@
     "batterySystem": "18V System",
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GBH 18V-28 D",
-    "image": "/productos/gt-r32-155.jpg",
+    "image": "/productos/gt-r32-155-hq.png",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Herramientas a Batería para Aplicaciones Diversas 18V [BareTool]",
@@ -1989,7 +2009,7 @@
     "batterySystem": "18V System",
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GWS 18V-8",
-    "image": "/productos/gt-r33-151.jpg",
+    "image": "/productos/gt-r33-151-hq.png",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Amoladora Angular",
@@ -2029,7 +2049,7 @@
     "batterySystem": "18V System",
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GWS 18V-8",
-    "image": "/productos/gt-r34-152.jpg",
+    "image": "/productos/gt-r34-152-hq.png",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Amoladoras Angulares",
@@ -2083,7 +2103,7 @@
     "batterySystem": "18V System",
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GWS 18V-10 P",
-    "image": "/productos/gt-r35-154.jpg",
+    "image": "/productos/gt-r35-154-hq.png",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Amoladoras Angulares",
@@ -2141,11 +2161,12 @@
     "batterySystem": "18V System",
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GWS 18V-11PS",
-    "image": "/productos/gt-r36-189.png",
+    "image": "/productos/web/web-gws-18v-11ps.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Amoladoras Angulares",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "06015b50d0",
@@ -2194,11 +2215,12 @@
     "batterySystem": "18V System",
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GHO 185-LI",
-    "image": "/productos/gt-r37-123.png",
+    "image": "/productos/web/web-gho-185-li.png",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Cepillo Inalámbrico 18V",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "06019p5100",
@@ -2247,7 +2269,7 @@
     "batterySystem": "18V System",
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GLI 18V-5000",
-    "image": "/productos/gt-r38-178.png",
+    "image": "/productos/gt-r38-178-hq.png",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Linterna a Batería 18V",
@@ -2300,11 +2322,12 @@
     "batterySystem": "18V System",
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GLT 18V-5000",
-    "image": "/productos/gt-r39-184.jpg",
+    "image": "/productos/web/web-glt-18v-5000.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Linterna a Batería 18V",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "060164l9e0",
@@ -2350,11 +2373,12 @@
     "batterySystem": "12V System",
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GSA 12V-LI",
-    "image": "/productos/gt-r40-19.png",
+    "image": "/productos/web/web-gsa-12v-li.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Herramientas a Batería para Aplicaciones Diversas 12V [BareTool]",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "06016a1001",
@@ -2400,11 +2424,12 @@
     "batterySystem": "12V System",
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GKS 12V-26",
-    "image": "/productos/gt-r41-20.jpg",
+    "image": "/productos/web/web-gks-12v-26.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Herramientas a Batería para Aplicaciones Diversas 12V [BareTool]",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "06015a1001",
@@ -2450,11 +2475,12 @@
     "batterySystem": "12V System",
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GST 12V-70",
-    "image": "/productos/gt-r42-21.jpg",
+    "image": "/productos/web/web-gst-12v-70.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Herramientas a Batería para Aplicaciones Diversas 12V [BareTool]",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "06016b00l0",
@@ -2500,11 +2526,12 @@
     "batterySystem": "12V System",
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GKF 12V-8",
-    "image": "/productos/gt-r43-22.jpg",
+    "image": "/productos/web/web-gkf-12v-8.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Herramientas a Batería para Aplicaciones Diversas 12V [BareTool]",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "06019f2000",
@@ -2550,11 +2577,12 @@
     "batterySystem": "12V System",
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GWS 12V-76",
-    "image": "/productos/gt-r44-23.jpg",
+    "image": "/productos/web/web-gws-12v-76.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Herramientas a Batería para Aplicaciones Diversas 12V [BareTool]",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "06015a7000",
@@ -2600,11 +2628,12 @@
     "batterySystem": "12V System",
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GHO 12V-20",
-    "image": "/productos/gt-r45-24.jpg",
+    "image": "/productos/web/web-gho-12v-20.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Herramientas a Batería para Aplicaciones Diversas 12V [BareTool]",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "06014a1000",
@@ -2648,11 +2677,12 @@
     "batterySystem": "12V System",
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GLI 12V-330",
-    "image": "/productos/gt-r46-25.jpg",
+    "image": "/productos/web/web-gli-12v-330.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Herramientas a Batería para Aplicaciones Diversas 12V [BareTool]",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "06019e3000",
@@ -2693,11 +2723,12 @@
     "batterySystem": "12V System",
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GAS 12V-LI",
-    "image": "/productos/gt-r47-26.jpg",
+    "image": "/productos/web/web-gas-12v-li.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Herramientas a Batería para Aplicaciones Diversas 12V [BareTool]",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "0601372101",
@@ -2743,11 +2774,12 @@
     "batterySystem": "12V System",
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GEX 12V-125",
-    "image": "/productos/gt-r48-27.jpg",
+    "image": "/productos/web/web-gex-12v-125.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Herramientas a Batería para Aplicaciones Diversas 12V [BareTool]",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "06019b2901",
@@ -2800,11 +2832,12 @@
     "batterySystem": "12V System",
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GUS 12V-LI",
-    "image": "/productos/gt-r49-28.jpg",
+    "image": "/productos/web/web-gus-12v-li.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Herramientas a Batería para Aplicaciones Diversas 12V [BareTool]",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "06019m31e0",
@@ -2903,11 +2936,12 @@
     "batterySystem": "18V System",
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GKS 18V-57",
-    "image": "/productos/gt-r51-29.jpg",
+    "image": "/productos/web/web-gks-18v-57.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Herramientas a Batería para Aplicaciones Diversas 18V [BareTool]",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "06016b51e0",
@@ -2965,11 +2999,12 @@
     "batterySystem": "18V System",
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GKS 18V-68 GC",
-    "image": "/productos/gt-r52-30.jpg",
+    "image": "/productos/web/web-gks-18v-68-gc.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Herramientas a Batería para Aplicaciones Diversas 18V [BareTool]",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "06016c60e0",
@@ -3014,7 +3049,7 @@
     "batterySystem": "18V System",
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GLF 18V-8",
-    "image": "/productos/gt-r53-143.png",
+    "image": "/productos/gt-r53-143-hq.png",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Herramientas a Batería para Aplicaciones Diversas 18V [BareTool]",
@@ -3063,11 +3098,12 @@
     "batterySystem": "18V System",
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GST 183-LI",
-    "image": "/productos/gt-r54-131.png",
+    "image": "/productos/web/web-gst-183-li.png",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Herramientas a Batería para Aplicaciones Diversas 18V [BareTool]",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "06015b30e1",
@@ -3112,11 +3148,12 @@
     "batterySystem": "18V System",
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GST 185-LI",
-    "image": "/productos/gt-r55-119.jpg",
+    "image": "/productos/web/web-gst-185-li.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Herramientas a Batería para Aplicaciones Diversas 18V [BareTool]",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "06013a50e0",
@@ -3173,11 +3210,12 @@
     "batterySystem": "18V System",
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GEX 185-LI",
-    "image": "/productos/gt-r56-31.jpg",
+    "image": "/productos/web/web-gex-185-li.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Herramientas a Batería para Aplicaciones Diversas 18V [BareTool]",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "06019k50e0",
@@ -3230,7 +3268,7 @@
     "batterySystem": "18V System",
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GRG 18V-16",
-    "image": "/productos/gt-r57-153.jpg",
+    "image": "/productos/gt-r57-153-hq.png",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Herramientas a Batería para Aplicaciones Diversas 18V [BareTool]",
@@ -3280,7 +3318,7 @@
     "batterySystem": "18V System",
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GSA 185-LI",
-    "image": "/productos/gt-r58-165.png",
+    "image": "/productos/gt-r58-165-hq.png",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Herramientas a Batería para Aplicaciones Diversas 18V [BareTool]",
@@ -3329,11 +3367,12 @@
     "batterySystem": "18V System",
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GLI 18V-300",
-    "image": "/productos/gt-r59-32.jpg",
+    "image": "/productos/web/web-gli-18v-300.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Herramientas a Batería para Aplicaciones Diversas 18V [BareTool]",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "0601b440k0",
@@ -3387,7 +3426,7 @@
     "batterySystem": "18V System",
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GTS 18V-216",
-    "image": "/productos/gt-r60-33.jpg",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Herramientas a Batería para Aplicaciones Diversas 18V [BareTool]",
@@ -3435,11 +3474,12 @@
     "batterySystem": "12V System",
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GBA 12V 2,0 Ah",
-    "image": "/productos/gt-r61-34.jpg",
+    "image": "/productos/web/web-gba-12v-2-0-ah.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Baterías Li-ION 12V",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "1600z00036",
@@ -3483,11 +3523,12 @@
     "batterySystem": "18V System",
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GBA 18V 2,0 Ah",
-    "image": "/productos/gt-r62-35.jpg",
+    "image": "/productos/web/web-gba-18v-2-0-ah.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Baterías Li-ION 18V",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "1600z00038",
@@ -3531,11 +3572,12 @@
     "batterySystem": "18V System",
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GBA 18V 4,0 Ah",
-    "image": "/productos/gt-r63-36.jpg",
+    "image": "/productos/web/web-gba-18v-4-0-ah.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Baterías Li-ION 18V",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "1600a016gb",
@@ -3579,11 +3621,12 @@
     "batterySystem": "18V System",
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "ProCORE 18V 4,0 Ah",
-    "image": "/productos/gt-r64-37.jpg",
+    "image": "/productos/web/web-procore-18v-4-0-ah.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Baterías Li-ION 18V",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "1600a016gk",
@@ -3627,11 +3670,12 @@
     "batterySystem": "18V System",
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "ProCORE 18V 8,0 Ah",
-    "image": "/productos/gt-r65-38.jpg",
+    "image": "/productos/web/web-procore-18v-8-0-ah.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Baterías Li-ION 18V",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "1600a016gu",
@@ -3675,11 +3719,12 @@
     "batterySystem": "18V System",
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "ProCORE 18V 12,0 Ah",
-    "image": "/productos/gt-r66-39.jpg",
+    "image": "/productos/web/web-procore-18v-12-0-ah.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Baterías Li-ION 18V",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "1600a021ks",
@@ -3724,11 +3769,12 @@
     "batterySystem": "12V System",
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Starter kit GAL 12",
-    "image": "/productos/gt-r67-122.png",
+    "image": "/productos/web/web-starter-kit-gal-12.png",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "STARTER KIT 12V",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "1600a036y3",
@@ -3813,11 +3859,12 @@
     "batterySystem": "18V System",
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Starter kit GAL 18V-40",
-    "image": "/productos/gt-r69-120.jpg",
+    "image": "/productos/web/web-gal-18v-40.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "STARTER KIT 18V",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "1600a015tc",
@@ -3862,11 +3909,12 @@
     "batterySystem": "18V System",
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Starter Kit GAL 1880",
-    "image": "/productos/gt-r70-40.jpg",
+    "image": "/productos/web/web-starter-kit-gal-1880.png",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "STARTER KIT 18V",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "1600a021kl",
@@ -3896,11 +3944,12 @@
     "batterySystem": "12V System",
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GAL 12V-20",
-    "image": "/productos/gt-r71-42.jpg",
+    "image": "/productos/web/web-gal-12v-20.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Cargadores Baterías 12V",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "2608000728",
@@ -3930,11 +3979,12 @@
     "batterySystem": "12V System",
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GAL 12V-20",
-    "image": "/productos/gt-r72-41.jpg",
+    "image": "/productos/web/web-gal-12v-20.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Cargadores Baterías 12V",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "1600a021la",
@@ -3964,11 +4014,12 @@
     "batterySystem": "18V System",
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GAL 18V-20",
-    "image": "/productos/gt-r73-44.jpg",
+    "image": "/productos/web/web-gal-18v-20.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Cargadores Baterías 18V",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "2608000733",
@@ -3998,11 +4049,12 @@
     "batterySystem": "18V System",
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GAL 18V-20",
-    "image": "/productos/gt-r74-43.jpg",
+    "image": "/productos/web/web-gal-18v-20.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Cargadores Baterías 18V",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "1600a028ty",
@@ -4032,11 +4084,12 @@
     "batterySystem": "18V System",
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GAL 18V-40",
-    "image": "/productos/gt-r75-45.png",
+    "image": "/productos/web/web-gal-18v-40.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Cargadores Baterías 18V",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "1600a015tj",
@@ -4076,11 +4129,12 @@
     "batterySystem": "18V System",
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GAL 1880",
-    "image": "/productos/gt-r76-46.jpg",
+    "image": "/productos/web/web-starter-kit-gal-1880.png",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Cargadores Baterías 18V",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "1600a01b6f",
@@ -4115,11 +4169,12 @@
     "batterySystem": "18V System",
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GAL 18V-160",
-    "image": "/productos/gt-r77-47.jpg",
+    "image": "/productos/web/web-gal-18v-160.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Cargadores Baterías 18V",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "1600a01u9l",
@@ -4168,7 +4223,7 @@
     "batterySystem": "18V System",
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GAL 18V-6-80",
-    "image": "/productos/gt-r78-166.png",
+    "image": "/productos/gt-r78-166-hq.png",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Cargadores Baterías 18V",
@@ -4212,7 +4267,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Caja de herramientas",
-    "image": "/productos/gt-r79-50.jpg",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Cajas Plásticas y carritos de transporte",
@@ -4256,7 +4311,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "SOFTBAG",
-    "image": "/productos/gt-r80-49.jpg",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Cajas Plásticas y carritos de transporte",
@@ -4300,7 +4355,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Tool Bag",
-    "image": "/productos/gt-r81-51.jpg",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Cajas Plásticas y carritos de transporte",
@@ -4339,7 +4394,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "L-BOXX Mini",
-    "image": "/productos/gt-r82-52.jpg",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Cajas Plásticas y carritos de transporte",
@@ -4378,7 +4433,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "L-BOXX 102",
-    "image": "/productos/gt-r83-53.jpg",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Cajas Plásticas y carritos de transporte",
@@ -4417,7 +4472,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "L-BOXX 102",
-    "image": "/productos/gt-r84-54.jpg",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Cajas Plásticas y carritos de transporte",
@@ -4465,7 +4520,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "LS-BOXX 136",
-    "image": "/productos/gt-r85-55.jpg",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Cajas Plásticas y carritos de transporte",
@@ -4557,7 +4612,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "L-BOXX 72",
-    "image": "/productos/gt-r87-179.png",
+    "image": "/productos/gt-r87-179-hq.png",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Cajas Plásticas y carritos de transporte",
@@ -4601,7 +4656,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "L-BOXX 272",
-    "image": "/productos/gt-r88-181.png",
+    "image": "/productos/gt-r88-181-hq.png",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Cajas Plásticas y carritos de transporte",
@@ -4640,7 +4695,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "L-BOXX 238",
-    "image": "/productos/gt-r89-56.jpg",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Cajas Plásticas y carritos de transporte",
@@ -4684,7 +4739,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "L-BOXX 374",
-    "image": "/productos/gt-r90-182.png",
+    "image": "/productos/gt-r90-182-hq.png",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Cajas Plásticas y carritos de transporte",
@@ -4728,7 +4783,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Roller 4 Ruedas",
-    "image": "/productos/gt-r91-183.png",
+    "image": "/productos/gt-r91-183-hq.png",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Soporte con ruedas para L-Boxx",
@@ -4782,11 +4837,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GSB 450",
-    "image": "/productos/gt-r92-101.png",
+    "image": "/productos/web/web-gsb-450.png",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Taladros Percutores",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "06011b60e0",
@@ -4891,11 +4947,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GSB 13 RE",
-    "image": "/productos/gt-r94-98.png",
+    "image": "/productos/web/web-gsb-13-re.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Taladros Percutores",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "06012b80e2",
@@ -4946,11 +5003,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GSB 13 RE",
-    "image": "/productos/gt-r95-99.png",
+    "image": "/productos/web/web-gsb-13-re.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Taladros Percutores",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "06012b90e1",
@@ -5001,11 +5059,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GSB 16 RE",
-    "image": "/productos/gt-r96-100.png",
+    "image": "/productos/web/web-gsb-16-re.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Taladros Percutores",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "06011a21e3",
@@ -5060,7 +5119,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GSB 20-2 RE",
-    "image": "/productos/gt-r97-0.jpg",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Taladros Percutores",
@@ -5109,11 +5168,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GBM 10 RE",
-    "image": "/productos/gt-r98-1.jpg",
+    "image": "/productos/web/web-gbm-10-re.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Taladros De Rotación",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "06011b00e0",
@@ -5163,11 +5223,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GBM 1600 RE",
-    "image": "/productos/gt-r99-2.jpg",
+    "image": "/productos/web/web-gbm-1600-re.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Taladros De Rotación",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "06014470e0",
@@ -5224,11 +5285,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GSR 7-14 E",
-    "image": "/productos/gt-r100-48.jpg",
+    "image": "/productos/web/web-gsr-7-14-e.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Atornilladores Yeso / Drywall con Cable",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "06014a20e0",
@@ -5278,11 +5340,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GTB 650",
-    "image": "/productos/gt-r101-97.jpg",
+    "image": "/productos/web/web-gtb-650.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Atornilladores Yeso / Drywall con Cable",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "06013a30e1",
@@ -5335,11 +5398,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GWS 700+5discos",
-    "image": "/productos/gt-r102-118.jpg",
+    "image": "/productos/web/web-gws-700-5discos.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Amoladoras Angulares",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "06013775ea",
@@ -5388,11 +5452,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GWS 850",
-    "image": "/productos/gt-r103-57.jpg",
+    "image": "/productos/web/web-gws-850.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Amoladoras Angulares",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "06013a90e0",
@@ -5442,11 +5507,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GWS 9-125",
-    "image": "/productos/gt-r104-58.jpg",
+    "image": "/productos/web/web-gws-9-125.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Amoladoras Angulares",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "06013961e0",
@@ -5500,11 +5566,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GWS 9-125 S",
-    "image": "/productos/gt-r105-59.jpg",
+    "image": "/productos/web/web-gws-9-125.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Amoladoras Angulares",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "06013a60e0",
@@ -5562,11 +5629,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GWS 12-125 S",
-    "image": "/productos/gt-r106-103.png",
+    "image": "/productos/web/web-gws-12-125-s.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Amoladoras Angulares",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "06013a62e0",
@@ -5624,11 +5692,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GWS 12-125 P",
-    "image": "/productos/gt-r107-138.png",
+    "image": "/productos/web/web-gws-12-125-p.png",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Amoladoras Angulares",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "06017d03e0",
@@ -5678,11 +5747,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GWS 17-125 S",
-    "image": "/productos/gt-r108-104.jpg",
+    "image": "/productos/web/web-gws-17-125-s.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Amoladoras Angulares",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "06017d13e0",
@@ -5732,11 +5802,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GWS 17-125 PS",
-    "image": "/productos/gt-r109-113.png",
+    "image": "/productos/web/web-gws-17-125-ps.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Amoladoras Angulares",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "06017a31e0",
@@ -5786,11 +5857,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GWS 18-125 PL",
-    "image": "/productos/gt-r110-60.jpg",
+    "image": "/productos/web/web-gws-18-125-pl.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Amoladoras Angulares",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "06017d50e0",
@@ -5840,7 +5912,7 @@
     "batterySystem": "18V System",
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GWS 20-125 SB",
-    "image": "/productos/gt-r111-164.png",
+    "image": "/productos/gt-r111-164-hq.png",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Amoladoras Angulares",
@@ -5893,11 +5965,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GWS 2200-180 VULCANO",
-    "image": "/productos/gt-r112-61.jpg",
+    "image": "/productos/web/web-gws-2200-180-vulcano.png",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Amoladoras Angulares",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "06018f20e0",
@@ -5946,11 +6019,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GWS 2200-230 VULCANO",
-    "image": "/productos/gt-r113-62.jpg",
+    "image": "/productos/web/web-gws-2200-230-vulcano.png",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Amoladoras Angulares",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "06018f11e0",
@@ -6106,7 +6180,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GWS 25-180 VULCANO",
-    "image": "/productos/gt-r116-64.jpg",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Amoladoras Angulares",
@@ -6160,11 +6234,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GWS 25-180 LVI VULCANO",
-    "image": "/productos/gt-r117-111.png",
+    "image": "/productos/web/web-gws-25-180-lvi-vulcano.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Amoladoras Angulares",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "06018f40e0",
@@ -6214,11 +6289,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GWS 25-230 VULCANO",
-    "image": "/productos/gt-r118-63.jpg",
+    "image": "/productos/web/web-gws-25-230-vulcano.png",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Amoladoras Angulares",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "06018f81e0",
@@ -6268,11 +6344,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GWS 25-230 LVI VULCANO",
-    "image": "/productos/gt-r119-112.png",
+    "image": "/productos/web/web-gws-25-230-lvi-vulcano.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Amoladoras Angulares",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "06012b52e0",
@@ -6318,7 +6395,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GGS 30 LPS",
-    "image": "/productos/gt-r120-167.jpg",
+    "image": "/productos/gt-r120-167-hq.png",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Amoladora Recta",
@@ -6367,7 +6444,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GSA 12-30",
-    "image": "/productos/gt-r121-191.jpg",
+    "image": "/productos/gt-r121-191-hq.png",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Sierra Sable",
@@ -6419,11 +6496,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GPO 11-180 S",
-    "image": "/productos/gt-r122-177.jpg",
+    "image": "/productos/web/web-gpo-11-180-s.png",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Pulidoras",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "06013890e0",
@@ -6472,7 +6550,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GPO 14 CE",
-    "image": "/productos/gt-r123-65.jpg",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Pulidoras",
@@ -6522,11 +6600,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GBH 220",
-    "image": "/productos/gt-r124-66.jpg",
+    "image": "/productos/web/web-gbh-220.png",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Martillos Perforadores SDS-Plus",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "06112a00e0",
@@ -6573,11 +6652,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GBH 2-24 D",
-    "image": "/productos/gt-r125-67.jpg",
+    "image": "/productos/web/web-gbh-2-24-d.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Martillos Perforadores SDS-Plus",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "0615a0022z",
@@ -6624,11 +6704,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GBH 2-24 D + Cinta métrica",
-    "image": "/productos/gt-r126-125.jpg",
+    "image": "/productos/web/web-gbh-2-24-d.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Martillos Perforadores SDS-Plus",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "06112673e0",
@@ -6675,11 +6756,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GBH 2-28 D",
-    "image": "/productos/gt-r127-68.jpg",
+    "image": "/productos/web/web-gbh-2-28-d.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Martillos Perforadores SDS-Plus",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "061123a0e0",
@@ -6730,11 +6812,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GBH 3-28",
-    "image": "/productos/gt-r128-69.jpg",
+    "image": "/productos/web/web-gbh-3-28.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Martillos Perforadores SDS-Plus",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "06113321e0",
@@ -6781,11 +6864,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GBH 4-32 DFR",
-    "image": "/productos/gt-r129-70.jpg",
+    "image": "/productos/web/web-gbh-4-32-dfr.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Martillos Perforadores SDS-Plus",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "06112690e0",
@@ -6832,11 +6916,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GBH 5-40 D",
-    "image": "/productos/gt-r130-71.jpg",
+    "image": "/productos/web/web-gbh-5-40-dce.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Martillos Perforadores SDS-Max",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "06112640e0",
@@ -6883,11 +6968,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GBH 5-40 DCE",
-    "image": "/productos/gt-r131-72.jpg",
+    "image": "/productos/web/web-gbh-5-40-dce.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Martillos Perforadores SDS-Max",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "06112651e0",
@@ -6934,11 +7020,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GBH 8-45 D",
-    "image": "/productos/gt-r132-73.jpg",
+    "image": "/productos/web/web-gbh-8-45-d.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Martillos Perforadores SDS-Max",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "06112650e0",
@@ -6985,11 +7072,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GBH 8-45 DV",
-    "image": "/productos/gt-r133-74.jpg",
+    "image": "/productos/web/web-gbh-8-45-dv.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Martillos Perforadores SDS-Max",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "06112660e0",
@@ -7036,7 +7124,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GBH 12-52 DV",
-    "image": "/productos/gt-r134-75.jpg",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Martillos Perforadores SDS-Max",
@@ -7090,7 +7178,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GSH 500",
-    "image": "/productos/gt-r135-124.png",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Martillos Demoledores SDS-Max",
@@ -7141,7 +7229,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GSH 5",
-    "image": "/productos/gt-r136-76.jpg",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Martillos Demoledores SDS-Max",
@@ -7192,7 +7280,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GSH 11 E",
-    "image": "/productos/gt-r137-77.jpg",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Martillos Demoledores SDS-Max",
@@ -7243,11 +7331,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GSH 16-28",
-    "image": "/productos/gt-r138-78.jpg",
+    "image": "/productos/web/web-gsh-16-28.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Martillos Demoledores - Encaje Hexagonal",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "061130a0e0",
@@ -7294,11 +7383,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GSH 27 VC",
-    "image": "/productos/gt-r139-79.jpg",
+    "image": "/productos/web/web-gsh-27-vc.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Martillos Demoledores - Encaje Hexagonal",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "06015b40e0",
@@ -7343,11 +7433,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GST 680",
-    "image": "/productos/gt-r140-114.png",
+    "image": "/productos/web/web-gst-680.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Sierras Caladoras",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "06015b41e0",
@@ -7400,11 +7491,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GST 750",
-    "image": "/productos/gt-r141-80.jpg",
+    "image": "/productos/web/web-gst-750.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Sierras Caladoras",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "060158h0e0",
@@ -7454,7 +7546,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GST 75 E",
-    "image": "/productos/gt-r142-81.jpg",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Sierras Caladoras",
@@ -7503,7 +7595,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GKS 130",
-    "image": "/productos/gt-r143-109.png",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Sierras Circulares",
@@ -7552,11 +7644,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GKS 150",
-    "image": "/productos/gt-r144-83.jpg",
+    "image": "/productos/web/web-gks-150.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Sierras Circulares",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "06016b20e0",
@@ -7606,11 +7699,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GKS 20-65",
-    "image": "/productos/gt-r145-121.jpg",
+    "image": "/productos/web/web-gks-20-65.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Sierras Circulares",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "060157a0e0",
@@ -7656,11 +7750,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GKS 235",
-    "image": "/productos/gt-r146-82.jpg",
+    "image": "/productos/web/web-gks-235.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Sierras Circulares",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "1600a021av",
@@ -7696,7 +7791,7 @@
     "batterySystem": "12V System",
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "FSN 1400",
-    "image": "/productos/gt-r147-84.png",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Sierra Circulares Accesorio",
@@ -7744,7 +7839,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GHG 180",
-    "image": "/productos/gt-r148-86.jpg",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Pistolas de Calor",
@@ -7793,7 +7888,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GHG 20-63",
-    "image": "/productos/gt-r149-85.jpg",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Pistolas de Calor",
@@ -7838,11 +7933,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GSS 140",
-    "image": "/productos/gt-r150-87.jpg",
+    "image": "/productos/web/web-gss-140.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Lijadoras Orbitales",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "06012a80e2",
@@ -7883,11 +7979,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GSS 140A",
-    "image": "/productos/gt-r151-130.jpg",
+    "image": "/productos/web/web-gss-140a.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Lijadoras Orbitales",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "06010707e0",
@@ -7933,11 +8030,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GSS 23 AE",
-    "image": "/productos/gt-r152-88.png",
+    "image": "/productos/web/web-gss-23-ae.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Lijadoras Orbitales",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "06010701e1",
@@ -7978,7 +8076,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GSS 20-18 A",
-    "image": "/productos/gt-r153-156.jpg",
+    "image": "/productos/gt-r153-156-hq.png",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Lijadoras Orbitales",
@@ -8027,11 +8125,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GEX 125",
-    "image": "/productos/gt-r154-134.png",
+    "image": "/productos/web/web-gex-125.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Lijadoras Orbitales",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "06012c10e0",
@@ -8080,7 +8179,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GBS 750",
-    "image": "/productos/gt-r155-157.jpg",
+    "image": "/productos/gt-r155-157-hq.png",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Lijadora De banda",
@@ -8134,11 +8233,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GEX 40-150",
-    "image": "/productos/gt-r156-89.jpg",
+    "image": "/productos/web/web-gex-40-150.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Lijadoras Excéntricas",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "06016a00e0",
@@ -8183,11 +8283,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GKF 550",
-    "image": "/productos/gt-r157-91.jpg",
+    "image": "/productos/web/web-gkf-550.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Fresadora",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "06016b70e0",
@@ -8232,11 +8333,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GOF 130",
-    "image": "/productos/gt-r158-127.png",
+    "image": "/productos/web/web-gof-130.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Fresadora",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "06015a90e0",
@@ -8281,11 +8383,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GHO 700",
-    "image": "/productos/gt-r159-90.jpg",
+    "image": "/productos/web/web-gho-700.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Cepillo",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "06015a43e0",
@@ -8331,11 +8434,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GHO 26-82 D",
-    "image": "/productos/gt-r160-115.png",
+    "image": "/productos/web/web-gho-26-82-d.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Cepillo",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "0601b520e0",
@@ -8380,11 +8484,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GCM 254",
-    "image": "/productos/gt-r161-116.png",
+    "image": "/productos/web/web-gcm-254.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Sierras Ingleteadoras",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "0601b236e0",
@@ -8430,11 +8535,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GCM 12 GDL",
-    "image": "/productos/gt-r162-92.jpg",
+    "image": "/productos/web/web-gcm-12-gdl.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Sierras Ingleteadoras",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "0601b560e0",
@@ -8465,11 +8571,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GCO 230",
-    "image": "/productos/gt-r163-128.png",
+    "image": "/productos/web/web-gco-230.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Sierra Sensitiva",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "0601b370e0",
@@ -8506,11 +8613,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GCO 14-24",
-    "image": "/productos/gt-r164-93.jpg",
+    "image": "/productos/web/web-gco-14-24.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Sierra Sensitiva",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "0601b450e0",
@@ -8555,11 +8663,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GTS 254",
-    "image": "/productos/gt-r165-94.jpg",
+    "image": "/productos/web/web-gts-254.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Sierra de Banco",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "0601b305e0",
@@ -8605,7 +8714,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GTS 10 J",
-    "image": "/productos/gt-r166-95.jpg",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Sierra de Banco",
@@ -8654,7 +8763,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GVC 22 EX",
-    "image": "/productos/gt-r167-96.jpg",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Vibrador de Concreto",
@@ -8703,11 +8812,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GOP 30-28",
-    "image": "/productos/gt-r168-105.jpg",
+    "image": "/productos/web/web-gop-30-28.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Multicortadora",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "06112a75e1",
@@ -8770,11 +8880,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GBH 2-24 + GWS 850 220V M14",
-    "image": "/productos/gt-r169-135.jpg",
+    "image": "/productos/web/web-gws-850.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "KIT",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "06011b75e1",
@@ -8840,11 +8951,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GSB 550 + GWS 850 220V M14",
-    "image": "/productos/gt-r170-137.png",
+    "image": "/productos/web/web-gws-850.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "KIT",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "06012b75e1",
@@ -8911,11 +9023,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GSB 13 RE + GWS 850 220V M14",
-    "image": "/productos/gt-r171-136.jpg",
+    "image": "/productos/web/web-gsb-13-re.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "KIT",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "0600910cn0",
@@ -8964,11 +9077,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GHP 180",
-    "image": "/productos/og-r2-1.png",
+    "image": "/productos/web/web-ghp-180.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Hidrolavaroras",
-    "source": "OG Mayo 2026"
+    "source": "OG Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "0600910dn0",
@@ -9017,11 +9131,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GHP 200",
-    "image": "/productos/og-r3-3.png",
+    "image": "/productos/web/web-ghp-200.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Hidrolavaroras",
-    "source": "OG Mayo 2026"
+    "source": "OG Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "0600910en0",
@@ -9070,11 +9185,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GHP 220",
-    "image": "/productos/og-r4-4.png",
+    "image": "/productos/web/web-ghp-220.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Hidrolavaroras",
-    "source": "OG Mayo 2026"
+    "source": "OG Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "0600910fn0",
@@ -9123,11 +9239,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GHP 4-50",
-    "image": "/productos/og-r5-5.png",
+    "image": "/productos/web/web-ghp-4-50.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Hidrolavaroras",
-    "source": "OG Mayo 2026"
+    "source": "OG Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "06008d1000",
@@ -9188,11 +9305,12 @@
     "batterySystem": "18V System",
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GRT 18V-23",
-    "image": "/productos/og-r6-6.png",
+    "image": "/productos/web/web-grt-18v-23.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Desmalezadora",
-    "source": "OG Mayo 2026"
+    "source": "OG Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "06008d0000",
@@ -9249,11 +9367,12 @@
     "batterySystem": "18V System",
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GRT 18V-33",
-    "image": null,
+    "image": "/productos/web/web-grt-18v-33.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Podadora de Césped",
-    "source": "OG Mayo 2026"
+    "source": "OG Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "06008c9000",
@@ -9298,11 +9417,12 @@
     "batterySystem": "18V System",
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GHE 18V-60",
-    "image": "/productos/og-r8-8.png",
+    "image": "/productos/web/web-ghe-18v-60.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Cortacercos inalámbrico",
-    "source": "OG Mayo 2026"
+    "source": "OG Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "06008d20e0",
@@ -9374,7 +9494,7 @@
     "batterySystem": "18V System",
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GKE 18V-40",
-    "image": "/productos/og-r10-12.jpg",
+    "image": "/productos/og-r10-12-hq.png",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Motosierra",
@@ -9413,7 +9533,7 @@
     "batterySystem": "18V System",
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GKE 18V-15",
-    "image": "/productos/og-r11-13.jpg",
+    "image": "/productos/og-r11-13-hq.png",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Motosierra de Mano",
@@ -9524,7 +9644,7 @@
     "batterySystem": "18V System",
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Cadena De Sierra PRO 40cm GKE 18V-40",
-    "image": "/productos/og-r14-14.png",
+    "image": "/productos/og-r14-14-hq.png",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Accesorios jardín",
@@ -9561,7 +9681,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Cepillo de limpieza",
-    "image": "/productos/og-r15-16.jpg",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Accesorios Hidrolavadora",
@@ -9602,7 +9722,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Manguera de 6m",
-    "image": "/productos/og-r16-18.jpg",
+    "image": "/productos/og-r16-18-hq.png",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Accesorios Hidrolavadora",
@@ -9635,7 +9755,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Boquilla de detergente",
-    "image": "/productos/og-r17-20.png",
+    "image": "/productos/og-r17-20-hq.png",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Accesorios Hidrolavadora",
@@ -9672,7 +9792,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Pistola de 360º",
-    "image": "/productos/og-r18-22.jpg",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Accesorios Hidrolavadora",
@@ -9709,7 +9829,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Filtro Externo",
-    "image": "/productos/og-r19-23.jpg",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Accesorios Hidrolavadora",
@@ -9746,7 +9866,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Boquilla variable",
-    "image": "/productos/og-r20-26.jpg",
+    "image": "/productos/og-r20-26-hq.png",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Accesorios Hidrolavadora",
@@ -9786,11 +9906,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "0601.072.XG0-000",
-    "image": "/productos/med-r3-44.jpg",
+    "image": "/productos/web/web-0601-072-xg0-000.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "",
-    "source": "MEDICION"
+    "source": "MEDICION",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "0601072900",
@@ -9826,11 +9947,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "0601.072.900-000",
-    "image": "/productos/med-r4-29.png",
+    "image": "/productos/web/web-0601-072-900-000.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "",
-    "source": "MEDICION"
+    "source": "MEDICION",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "0601072rg0",
@@ -9866,11 +9988,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "0601.072.RG0-000",
-    "image": "/productos/med-r5-30.jpg",
+    "image": "/productos/web/web-0601-072-rg0-000.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "",
-    "source": "MEDICION"
+    "source": "MEDICION",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "0601072u00",
@@ -9906,11 +10029,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "0601.072.U00-000",
-    "image": "/productos/med-r6-31.jpg",
+    "image": "/productos/web/web-0601-072-u00-000.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "",
-    "source": "MEDICION"
+    "source": "MEDICION",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "0601072y00",
@@ -9946,11 +10070,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "0601.072.Y00-000",
-    "image": "/productos/med-r7-48.jpg",
+    "image": "/productos/web/web-0601-072-y00-000.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "",
-    "source": "MEDICION"
+    "source": "MEDICION",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "0601072z00",
@@ -9986,11 +10111,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "0601.072.Z00-000",
-    "image": "/productos/med-r8-49.jpg",
+    "image": "/productos/web/web-0601-072-z00-000.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "",
-    "source": "MEDICION"
+    "source": "MEDICION",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "0601074000",
@@ -10026,11 +10152,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "0601.074.000-000",
-    "image": "/productos/med-r9-32.jpg",
+    "image": "/productos/web/web-0601-074-000-000.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "",
-    "source": "MEDICION"
+    "source": "MEDICION",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "0601015200",
@@ -10106,11 +10233,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "0601.063.XG0-000",
-    "image": "/productos/med-r11-25.png",
+    "image": "/productos/web/web-0601-063-xg0-000.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "",
-    "source": "MEDICION"
+    "source": "MEDICION",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "0601065220",
@@ -10146,11 +10274,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "0601.065.220-000",
-    "image": "/productos/med-r12-8.jpg",
+    "image": "/productos/web/web-0601-065-220-000.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "",
-    "source": "MEDICION"
+    "source": "MEDICION",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "0601065320",
@@ -10186,11 +10315,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "0601.065.320-000",
-    "image": "/productos/med-r13-7.jpg",
+    "image": "/productos/web/web-0601-065-320-000.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "",
-    "source": "MEDICION"
+    "source": "MEDICION",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "06010653g0",
@@ -10221,7 +10351,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "0601.065.3G0-000",
-    "image": "/productos/med-r14-59.jpg",
+    "image": "/productos/med-r14-59-hq.png",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "",
@@ -10256,11 +10386,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "0601.065.3G1-000",
-    "image": "/productos/med-r15-3.jpg",
+    "image": "/productos/web/web-0601-065-3g1-000.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "",
-    "source": "MEDICION"
+    "source": "MEDICION",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "1608m00c43",
@@ -10292,11 +10423,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "1608.M00.C43-000",
-    "image": null,
+    "image": "/productos/web/web-1608-m00-c43-000.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "",
-    "source": "MEDICION"
+    "source": "MEDICION",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "1600a031fz",
@@ -10368,7 +10500,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "0601.066.E02-000",
-    "image": "/productos/med-r18-10.png",
+    "image": "/productos/med-r18-10-hq.png",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "",
@@ -10408,11 +10540,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "0601.066.J00-000",
-    "image": "/productos/med-r19-11.jpg",
+    "image": "/productos/web/web-0601-066-j00-000.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "",
-    "source": "MEDICION"
+    "source": "MEDICION",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "0601066m01",
@@ -10448,11 +10581,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "0601.066.M01-000",
-    "image": "/productos/med-r20-28.png",
+    "image": "/productos/web/web-0601-066-m01-000.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "",
-    "source": "MEDICION"
+    "source": "MEDICION",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "0601065600",
@@ -10528,11 +10662,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "0601.065.001-000",
-    "image": "/productos/med-r22-33.jpg",
+    "image": "/productos/web/web-0601-065-001-000.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "",
-    "source": "MEDICION"
+    "source": "MEDICION",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "0601063s00",
@@ -10568,11 +10703,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "0601.063.S00-000",
-    "image": "/productos/med-r23-23.png",
+    "image": "/productos/web/web-0601-063-s00-000.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "",
-    "source": "MEDICION"
+    "source": "MEDICION",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "060105500",
@@ -10608,7 +10744,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "0601.065.500-000",
-    "image": "/productos/med-r24-5.png",
+    "image": "/productos/med-r24-5-hq.png",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "",
@@ -10648,11 +10784,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "0.601.065.502.000",
-    "image": "/productos/med-r25-53.png",
+    "image": "/productos/web/web-0-601-065-502-000.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "",
-    "source": "MEDICION"
+    "source": "MEDICION",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "06010651g0",
@@ -10728,7 +10865,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "0601.068.000-000",
-    "image": "/productos/med-r27-12.png",
+    "image": "/productos/med-r27-12-hq.png",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "",
@@ -10768,7 +10905,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "0601.068.500-000",
-    "image": "/productos/med-r28-47.png",
+    "image": "/productos/med-r28-47-hq.png",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "",
@@ -10808,7 +10945,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "0601.061.501-000",
-    "image": "/productos/med-r29-26.png",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "",
@@ -10844,11 +10981,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "0601.076.900-000",
-    "image": "/productos/med-r30-13.png",
+    "image": "/productos/web/web-0601-076-900-000.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "",
-    "source": "MEDICION"
+    "source": "MEDICION",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "0601076600",
@@ -10880,7 +11018,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "0601.076.600-000",
-    "image": "/productos/med-r31-14.png",
+    "image": "/productos/med-r31-14-hq.png",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "",
@@ -10916,11 +11054,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "0601.081.700-000",
-    "image": "/productos/med-r32-6.png",
+    "image": "/productos/web/web-0601-081-700-000.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "",
-    "source": "MEDICION"
+    "source": "MEDICION",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "0601081303",
@@ -10952,7 +11091,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "0601.081.303-000",
-    "image": "/productos/med-r33-15.png",
+    "image": "/productos/med-r33-15-hq.png",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "",
@@ -10988,11 +11127,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "0601.081.6G0-000",
-    "image": "/productos/med-r34-27.png",
+    "image": "/productos/web/web-0601-081-6g0-000.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "",
-    "source": "MEDICION"
+    "source": "MEDICION",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "0601241500",
@@ -11024,11 +11164,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "0601.241.500-000",
-    "image": "/productos/med-r35-51.png",
+    "image": "/productos/web/web-0601-241-500-000.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "",
-    "source": "MEDICION"
+    "source": "MEDICION",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "06010834g0",
@@ -11060,11 +11201,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "0601.083.4G0-000",
-    "image": "/productos/med-r36-24.png",
+    "image": "/productos/web/web-0601-083-4g0-000.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "",
-    "source": "MEDICION"
+    "source": "MEDICION",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "0601083300",
@@ -11096,7 +11238,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "0601.083.300-000",
-    "image": "/productos/med-r37-16.png",
+    "image": "/productos/med-r37-16-hq.png",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "",
@@ -11131,7 +11273,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "0601.083.9K0-000",
-    "image": "/productos/med-r38-57.png",
+    "image": "/productos/med-r38-57-hq.png",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "",
@@ -11171,11 +11313,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "0601.069.100-000",
-    "image": "/productos/med-r39-34.jpg",
+    "image": "/productos/web/web-0601-069-100-000.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "",
-    "source": "MEDICION"
+    "source": "MEDICION",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "0601069h00",
@@ -11211,11 +11354,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "0601.069.H00-000",
-    "image": "/productos/med-r40-35.jpg",
+    "image": "/productos/web/web-0601-069-h00-000.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "",
-    "source": "MEDICION"
+    "source": "MEDICION",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "0601069j00",
@@ -11251,11 +11395,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "0601.069.J00-000",
-    "image": "/productos/med-r41-17.png",
+    "image": "/productos/web/web-0601-069-j00-000.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "",
-    "source": "MEDICION"
+    "source": "MEDICION",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "1608m00c1l",
@@ -11291,11 +11436,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "1608.M00.C1L-000",
-    "image": "/productos/med-r42-36.jpg",
+    "image": "/productos/web/web-1608-m00-c1l-000.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "",
-    "source": "MEDICION"
+    "source": "MEDICION",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "0601015d00",
@@ -11331,11 +11477,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "0601.015.D00-000",
-    "image": "/productos/med-r43-37.jpg",
+    "image": "/productos/web/web-0601-015-d00-000.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "",
-    "source": "MEDICION"
+    "source": "MEDICION",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "0601092700",
@@ -11371,11 +11518,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "0601.092.700-000",
-    "image": "/productos/med-r44-38.png",
+    "image": "/productos/web/web-0601-092-700-000.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "",
-    "source": "MEDICION"
+    "source": "MEDICION",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "0601092800",
@@ -11451,11 +11599,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "0601.096.B00-000",
-    "image": "/productos/med-r46-18.png",
+    "image": "/productos/web/web-0601-096-b00-000.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "",
-    "source": "MEDICION"
+    "source": "MEDICION",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "0601091200",
@@ -11491,7 +11640,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "0601.091.200-000",
-    "image": "/productos/med-r47-22.png",
+    "image": "/productos/med-r47-22-hq.png",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "",
@@ -11531,11 +11680,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "0601.091.B00-000",
-    "image": "/productos/med-r48-39.jpg",
+    "image": "/productos/web/web-0601-091-b00-000.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "",
-    "source": "MEDICION"
+    "source": "MEDICION",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "0601091a00",
@@ -11571,11 +11721,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "0601.091.A00-000",
-    "image": "/productos/med-r49-40.jpg",
+    "image": "/productos/web/web-0601-091-a00-000.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "",
-    "source": "MEDICION"
+    "source": "MEDICION",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "1609203c10",
@@ -11611,7 +11762,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "1609.203.C10-000",
-    "image": "/productos/med-r50-41.jpg",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "",
@@ -11651,11 +11802,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "0601.094.100-000",
-    "image": "/productos/med-r51-42.png",
+    "image": "/productos/web/web-0601-094-100-000.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "",
-    "source": "MEDICION"
+    "source": "MEDICION",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "0601094300",
@@ -11691,11 +11843,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "0601.094.300-000",
-    "image": "/productos/med-r52-43.jpg",
+    "image": "/productos/web/web-0601-094-300-000.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "",
-    "source": "MEDICION"
+    "source": "MEDICION",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "1608m0005b",
@@ -11731,11 +11884,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "1608.M00.05B-000",
-    "image": "/productos/med-r53-19.png",
+    "image": "/productos/web/web-1608-m00-05b-000.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "",
-    "source": "MEDICION"
+    "source": "MEDICION",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "1608m0005j",
@@ -11771,7 +11925,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "1608.M00.05J-000",
-    "image": "/productos/med-r54-20.png",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "",
@@ -12796,7 +12950,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Mini-X-Line para perforar y atornillar",
-    "image": "/productos/acc-r9-30.png",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Línea De Sets Azules Para Taladrar Y Atornillar",
@@ -12840,7 +12994,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Set de puntas Promoline",
-    "image": "/productos/acc-r10-11.jpg",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Línea De Sets Azules Para Taladrar Y Atornillar",
@@ -12885,7 +13039,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Maletín X-Line para taladrar y atornilla",
-    "image": "/productos/acc-r11-29.png",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Línea De Sets Azules Para Taladrar Y Atornillar",
@@ -12929,7 +13083,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Set Multic y puntas \"X-Line\"",
-    "image": "/productos/acc-r13-12.jpg",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Línea De Sets Azules Para Taladrar Y Atornillar",
@@ -12974,7 +13128,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Maletín V-line para taladrar y atornilla",
-    "image": "/productos/acc-r14-27.png",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Línea De Sets Azules Para Taladrar Y Atornillar",
@@ -13013,7 +13167,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Set de 43 puntas para atornillar",
-    "image": "/productos/acc-r18-10.jpg",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Línea De Sets Azules Para Taladrar Y Atornillar",
@@ -13057,7 +13211,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Set para atornillar",
-    "image": "/productos/acc-r22-19.jpg",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Set .De .Mec-000",
@@ -13101,7 +13255,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Mini-X-Line para atornillar",
-    "image": "/productos/acc-r23-20.jpg",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Set .De .Mec-000",
@@ -13145,7 +13299,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Set para atornillar (Big-Bit)",
-    "image": "/productos/acc-r24-18.jpg",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Set .De .Mec-000",
@@ -13189,7 +13343,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Set para atornillar (incluye puntas, vas",
-    "image": "/productos/acc-r25-17.jpg",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Set .De .Mec-000",
@@ -13233,7 +13387,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Maletín V-Line de titanio Bosch ( ) para",
-    "image": "/productos/acc-r26-16.jpg",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Set .De .Mec-000",
@@ -13277,7 +13431,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Set de bolsillo para atornillar (Pocket ",
-    "image": "/productos/acc-r28-14.png",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Set .De .Mec-000",
@@ -13322,7 +13476,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Mecha CYL-1 (Impact)",
-    "image": "/productos/acc-r32-9.jpg",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Mech.As .Par-000",
@@ -13362,7 +13516,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Juego de Mechas CYL-1 (Impact)",
-    "image": "/productos/acc-r44-8.jpg",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Sets. Me.Cha-000",
@@ -13407,7 +13561,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Mecha para metal PointTeQ",
-    "image": "/productos/acc-r48-7.jpg",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Mech.As .Par-000",
@@ -13490,7 +13644,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Juego de Brocas p/metal HSS (10 brocas)",
-    "image": "/productos/acc-r67-6.jpg",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Mech.As .Par-000",
@@ -13535,7 +13689,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Mecha Espiral para madera",
-    "image": "/productos/acc-r70-31.jpg",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Mech.As .En -000",
@@ -13580,7 +13734,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Mecha fresadora para madera",
-    "image": "/productos/acc-r81-32.jpg",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Mech.As .Fre-000",
@@ -13670,7 +13824,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Mecha plana \" Self Cut - (Largo total )",
-    "image": "/productos/acc-r92-33.jpg",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Mech.As .Pla-000",
@@ -14025,7 +14179,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Mecha Multiconstruction",
-    "image": "/productos/acc-r108-36.jpg",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Mech.As .Mul-000",
@@ -14114,7 +14268,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Mecha Expert Ceramica y azulejo CYL-9",
-    "image": "/productos/acc-r121-37.png",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "EXPERT",
     "segment": "Mech.As .Exp-000",
@@ -14153,7 +14307,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Mecha SDS plus 5X - 4x50x110",
-    "image": "/productos/acc-r129-34.png",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Mech.As .Sds-000",
@@ -16387,7 +16541,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Mecha SDS Plus-1",
-    "image": "/productos/acc-r188-35.png",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Mech.As .Sds-000",
@@ -16431,7 +16585,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Set Promoline Mechas Sds Plus S2 X",
-    "image": "/productos/acc-r221-119.jpg",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Mech.As .Sds-000",
@@ -16475,7 +16629,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Cincel SDS-Plus Punta Autoafilable",
-    "image": "/productos/acc-r225-46.jpg",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Cinc.Ele.S A-000",
@@ -16563,7 +16717,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Cincel Punta SDS Plus estandar",
-    "image": "/productos/acc-r229-124.jpg",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Cinc.Ele.S L-000",
@@ -16651,7 +16805,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Mecha SDS max 4 (M4) x 340",
-    "image": "/productos/acc-r234-39.png",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Mech.As .Sds-000",
@@ -16873,7 +17027,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Cincel SDS-Max Autafilable Punta",
-    "image": "/productos/acc-r247-42.jpg",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Cinc.El .Sds-000",
@@ -16962,7 +17116,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Cincel SDS-Max Pala",
-    "image": "/productos/acc-r251-43.jpg",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Cinc.Ele.S S-000",
@@ -17094,7 +17248,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Cincel SDS-Max Punta x Caja x 10",
-    "image": "/productos/acc-r257-44.jpg",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Cinc.Ele.S S-000",
@@ -17182,7 +17336,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Cincel Punta Hexagonal Autoafilable 1 ( ",
-    "image": "/productos/acc-r261-108.jpg",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Cinc.Ele.S H-000",
@@ -17309,7 +17463,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Mandril Adapatador Mechas SDS-MAX a SDS-",
-    "image": "/productos/acc-r266-5.jpg",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Otro.S A.Cce-000",
@@ -17354,7 +17508,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Sierra Copa Bimetálica ( )",
-    "image": "/productos/acc-r273-40.jpg",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Sier.Ras. Co-000",
@@ -17620,7 +17774,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Mandril para Sierras Copa Bi Matálicas d",
-    "image": "/productos/acc-r290-41.jpg",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Otro.S A.Cce-000",
@@ -17709,7 +17863,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Punta para Atornillar - Phillips - # - x",
-    "image": "/productos/acc-r295-106.jpg",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Punt.As .Par-000",
@@ -17798,7 +17952,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Cepillo para Taladro - - Vástago de",
-    "image": "/productos/acc-r304-101.jpg",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Cepi.Llo.S P-000",
@@ -17974,7 +18128,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Mandril Promoline +Vastago+Tornillo",
-    "image": "/productos/acc-r311-1.png",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Repu.Est.Os -000",
@@ -18194,7 +18348,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Disco Diamantado - Continuo - - Standard",
-    "image": "/productos/acc-r319-23.jpg",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Disc.Os .Dia-000",
@@ -18239,7 +18393,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Disco Diamantado - Segmentado - - ECO fo",
-    "image": "/productos/acc-r322-109.jpg",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Disc.Os .Dia-000",
@@ -18328,7 +18482,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Disco Diamantado - Segmentado - - Standa",
-    "image": "/productos/acc-r331-47.jpg",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Disc.Os .Dia-000",
@@ -18373,7 +18527,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Disco Diamantado para Metal",
-    "image": "/productos/acc-r337-126.jpg",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "..-000",
@@ -18417,7 +18571,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Disco Multiwheel para Cortar Madera con ",
-    "image": "/productos/acc-r341-148.jpg",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Disc.Os .Mul-000",
@@ -18462,7 +18616,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Disco de Corte Rápido - - Expert for Ino",
-    "image": "/productos/acc-r347-48.jpg",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "EXPERT",
     "segment": "Disc.Os .De -000",
@@ -18552,7 +18706,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Disco de Corte - - Expert for Metal Rect",
-    "image": "/productos/acc-r353-49.jpg",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "EXPERT",
     "segment": "Disc.Os .De -000",
@@ -18597,7 +18751,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Disco de Corte - - ECO para Metal + Inox",
-    "image": "/productos/acc-r358-0.jpg",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Disc.Os .De -000",
@@ -18641,7 +18795,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Disco de Corte - - Standard for Inox - R",
-    "image": "/productos/acc-r364-120.jpg",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Disc.Os .De -000",
@@ -18818,7 +18972,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Disco de Corte Rápido - - Expert Multico",
-    "image": "/productos/acc-r371-22.jpg",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "EXPERT",
     "segment": "Disc.Os .De -000",
@@ -18906,7 +19060,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Disco de Desbaste - - Expert for Inox - ",
-    "image": "/productos/acc-r376-50.jpg",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "EXPERT",
     "segment": "Disc.Os .De -000",
@@ -18951,7 +19105,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Disco de Desbaste - - Expert for Metal -",
-    "image": "/productos/acc-r379-51.jpg",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "EXPERT",
     "segment": "Disc.Os .De -000",
@@ -18996,7 +19150,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Disco de Desbaste - - Standard for Metal",
-    "image": "/productos/acc-r385-52.jpg",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Disc.Os .De -000",
@@ -19040,7 +19194,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Vaso de Amolar Angular - Grano Medio",
-    "image": "/productos/acc-r391-54.jpg",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Vaso.S D.E A-000",
@@ -19129,7 +19283,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Plato de Goma con Velcro para Lijar con ",
-    "image": "/productos/acc-r397-121.jpg",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Lija.S P.Ara-000",
@@ -19174,7 +19328,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Disco Flap Curvo - Base Fibra - Standard",
-    "image": "/productos/acc-r404-55.jpg",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Disc.Os .Fla-000",
@@ -19348,7 +19502,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Disco Flap Curvo - Base fibra - Best for",
-    "image": "/productos/acc-r414-4.jpg",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Disc.Os .Fla-000",
@@ -19431,7 +19585,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Plato adherente para Fibrodisco 4,5'' ( ",
-    "image": "/productos/acc-r419-104.jpg",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Plat.Os .Adh-000",
@@ -19563,7 +19717,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Cepillo para Amoladora Ondulado - Clean ",
-    "image": "/productos/acc-r424-100.jpg",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Cepi.Llo.S P-000",
@@ -19695,7 +19849,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Cubrediscos p/ GWS 14-125 CIE - 5''",
-    "image": "/productos/acc-r429-102.jpg",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Otro.S A.Cce-000",
@@ -19739,7 +19893,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Cubredisco para Amoladora de - J H BV",
-    "image": "/productos/acc-r431-103.jpg",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Otro.S A.Cce-000",
@@ -19911,7 +20065,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Discos de Sierra Circular - 7 '' - 40 Di",
-    "image": "/productos/acc-r442-62.jpg",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Disc.Os .De -000",
@@ -20087,7 +20241,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Disco de Sierra Circular - 7 '' - 24 Die",
-    "image": "/productos/acc-r448-67.jpg",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Disc.Os .De -000",
@@ -20483,7 +20637,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Discos de Sierra Circular - 7 '' - 60 Di",
-    "image": "/productos/acc-r459-68.jpg",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Disc.Os .De -000",
@@ -20747,7 +20901,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Disco Serra Circular EX SH H -50",
-    "image": "/productos/acc-r466-149.png",
+    "image": "/productos/acc-r466-149-hq.png",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Disc.O D.E S-000",
@@ -20874,7 +21028,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Hoja de Calar - T234X - Madera (Corte Ex",
-    "image": "/productos/acc-r472-56.jpg",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Hoja.S D.E C-000",
@@ -20952,7 +21106,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Hoja de Calar - T101AO - Madera (Corte L",
-    "image": "/productos/acc-r478-57.jpg",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Hoja.S D.E C-000",
@@ -21108,7 +21262,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Hoja de Calar - T121AF - Metal (Corte Rá",
-    "image": "/productos/acc-r484-61.jpg",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Hoja.S D.E C-000",
@@ -21342,7 +21496,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Hoja de Calar - T118A - Metal - x 5u",
-    "image": "/productos/acc-r492-58.jpg",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Hoja.S D.E C-000",
@@ -21576,7 +21730,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Hoja de Calar - T123X - Progressor for M",
-    "image": "/productos/acc-r500-111.jpg",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Hoja.S D.E C-000",
@@ -21654,7 +21808,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Hoja de Calar - T118EOF - Metal (Flexibl",
-    "image": "/productos/acc-r504-60.jpg",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Hoja.S D.E C-000",
@@ -21771,7 +21925,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Hoja de Calar - T101BIF - Laminados (Cor",
-    "image": "/productos/acc-r509-59.jpg",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Hoja.S D.E C-000",
@@ -21927,7 +22081,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "S922EF - Chapas semi gruesas, tubos y pe",
-    "image": "/productos/acc-r516-65.jpg",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Hoja.S D.E S-000",
@@ -22005,7 +22159,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "S1122BF - Chapas gruesas, perfiles maciz",
-    "image": "/productos/acc-r518-66.jpg",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Hoja.S D.E S-000",
@@ -22161,7 +22315,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "S1411DF - Madera con clavos/ Metal, tabl",
-    "image": "/productos/acc-r524-63.jpg",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Hoja.S D.E S-000",
@@ -22317,7 +22471,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "S644D - Madera de obra, tableros, MDF, m",
-    "image": "/productos/acc-r530-64.jpg",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Hoja.S D.E S-000",
@@ -22434,7 +22588,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "S1211K - Para Hielo / Materiales Congela",
-    "image": "/productos/acc-r535-112.jpg",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Hoja.S D.E S-000",
@@ -22473,7 +22627,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Fresa Ranura Recta - 1/ 8\" - 1 Filo",
-    "image": "/productos/acc-r540-70.jpg",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Fres.As .Sta-000",
@@ -22517,7 +22671,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Fresa Ranura Recta - \" - 1 Filo",
-    "image": "/productos/acc-r541-69.jpg",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Fres.As .Sta-000",
@@ -22762,7 +22916,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Fresa Ranura en \"V\" - \"",
-    "image": "/productos/acc-r549-71.jpg",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Fres.As .Sta-000",
@@ -22807,7 +22961,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Fresa Media Caña - \"",
-    "image": "/productos/acc-r554-73.jpg",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Fres.As .Sta-000",
@@ -22891,7 +23045,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Fresa Redondeadora con Rodamiento - Diam",
-    "image": "/productos/acc-r560-77.jpg",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Fres.As .Sta-000",
@@ -22936,7 +23090,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Fresa para Cortar Laminados con Rodamien",
-    "image": "/productos/acc-r565-75.jpg",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Fres.As .Sta-000",
@@ -23019,7 +23173,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Fresa Moldura Romana con Rodamiento - \"",
-    "image": "/productos/acc-r570-79.png",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Fres.As .Sta-000",
@@ -23102,7 +23256,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Fresa para Biselar con Rodamiento - - 45",
-    "image": "/productos/acc-r572-81.png",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Fres.As .Sta-000",
@@ -23146,7 +23300,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Fresa para Ribeteados y Encajes con Roda",
-    "image": "/productos/acc-r573-83.png",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Fres.As .Sta-000",
@@ -23190,7 +23344,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Pinza de Sujeción - - P/ GKF 600",
-    "image": "/productos/acc-r576-84.jpg",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Acce.Sor.Ios-000",
@@ -23368,7 +23522,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Lija Excéntrica - - Grano 40 - Best for ",
-    "image": "/productos/acc-r585-85.png",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Lija.S E.Xce-000",
@@ -23413,7 +23567,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Lija Excéntrica - - Grano 60 - Best for ",
-    "image": "/productos/acc-r586-88.png",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Lija.S E.Xce-000",
@@ -23634,7 +23788,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Lija Excéntrica - - Grano 240 - Best for",
-    "image": "/productos/acc-r591-86.jpg",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Lija.S E.Xce-000",
@@ -23723,7 +23877,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Plato adherente para Velcro Lijas Excént",
-    "image": "/productos/acc-r601-91.jpg",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Plat.Os .Adh-000",
@@ -23808,7 +23962,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Lija Orbital - Grano 60 - Best for Wood ",
-    "image": "/productos/acc-r608-92.jpg",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Lija.S P.Ara-000",
@@ -23941,7 +24095,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Lija de Banda - Grano 40 - Best for Wood",
-    "image": "/productos/acc-r615-93.jpg",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Lija.S P.Ara-000",
@@ -24200,7 +24354,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Hoja de Lija al Agua - Black for Stone -",
-    "image": "/productos/acc-r624-127.jpg",
+    "image": "/productos/acc-r624-127-hq.png",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Lija.S M.Anu-000",
@@ -24512,7 +24666,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Hoja de Lija para Pintura - White for Pa",
-    "image": "/productos/acc-r635-128.jpg",
+    "image": "/productos/acc-r635-128-hq.png",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Hoja.S D.E L-000",
@@ -24863,7 +25017,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Paño Abrasivo - Expert for Finish - x 20",
-    "image": "/productos/acc-r647-94.jpg",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "EXPERT",
     "segment": "Paño.S A.Bra-000",
@@ -25024,7 +25178,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Rollo Abrasivo Limpieza Gral",
-    "image": "/productos/acc-r653-3.jpg",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Paño.S A.Bra-000",
@@ -25151,7 +25305,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Esponja Abrasiva Taco - Grano Medio - x ",
-    "image": "/productos/acc-r658-98.jpg",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Espo.Jas. Ab-000",
@@ -25190,7 +25344,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Esponja Abrasiva Taco - Grano Fino - x 5",
-    "image": "/productos/acc-r659-99.jpg",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Espo.Jas. Ab-000",
@@ -25307,7 +25461,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Cuchilla Universal para Cepillos Eléctri",
-    "image": "/productos/acc-r664-114.jpg",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Acce.Sor.Ios-000",
@@ -25385,7 +25539,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Hoja de Sierra de Inmersión para Metal -",
-    "image": "/productos/acc-r669-115.jpg",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Sier.Ras., D-000",
@@ -25463,7 +25617,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Hoja de Sierra de Inmersión para Madera ",
-    "image": "/productos/acc-r671-116.jpg",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Sier.Ras., D-000",
@@ -25668,7 +25822,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Disco de Corte para Madera y Metal - ACZ",
-    "image": "/productos/acc-r676-117.jpg",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Sier.Ras., D-000",
@@ -25790,7 +25944,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Set de para Madera - Hojas de Sierra de ",
-    "image": "/productos/acc-r681-118.jpg",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Sets. Mu.Lti-000",
@@ -25878,7 +26032,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Juego de 10 Lijas para Madera - Grano / ",
-    "image": "/productos/acc-r685-105.jpg",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Hoja.S D.E L-000",
@@ -25961,7 +26115,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Respaldo Velcro para GPO M14 - Ø",
-    "image": "/productos/acc-r691-2.jpg",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Acce.Sor.Ios-000",
@@ -26005,7 +26159,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Boquilla para Pistola de Calor Plana",
-    "image": "/productos/acc-r694-113.jpg",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Otro.S A.Cce-000",
@@ -26132,7 +26286,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Broca Plana Self Cut Speed Ø10, \"",
-    "image": "/productos/acc-r707-131.jpg",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Mechas Planas / Paleta Para Madera ( Self Cut )",
@@ -26352,7 +26506,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Broca Plana Self Cut Speed Ø20, \"",
-    "image": "/productos/acc-r712-130.jpg",
+    "image": "/productos/acc-r712-130-hq.png",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Mechas Planas / Paleta Para Madera ( Self Cut )",
@@ -26743,7 +26897,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Broca CYL-9 MultiConstrucción 4x40x75",
-    "image": "/productos/acc-r724-133.png",
+    "image": "/productos/acc-r724-133-hq.png",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Mech.As .Mul-000",
@@ -27021,7 +27175,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "CYL-9 MultiConstrucción 4pc /",
-    "image": "/productos/acc-r741-132.png",
+    "image": "/productos/acc-r741-132-hq.png",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Sets. Me.Cha-000",
@@ -27065,7 +27219,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Disco de lija C470 G100 - 8 huecos",
-    "image": "/productos/acc-r745-134.png",
+    "image": "/productos/acc-r745-134-hq.png",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Disc.O D.E L-000",
@@ -27673,7 +27827,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Set Esponja abrasiva S470 3 pzs",
-    "image": "/productos/acc-r790-135.png",
+    "image": "/productos/acc-r790-135-hq.png",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Disc.O D.E L-000",
@@ -27892,7 +28046,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "DISCO EXPERT O780, , G320, 6X",
-    "image": "/productos/acc-r767-146.png",
+    "image": "/productos/acc-r767-146-hq.png",
     "priceLabel": "Consultar precio",
     "gama": "EXPERT",
     "segment": "Disc.O D.E L-000",
@@ -28161,7 +28315,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "HOJA EXPERT W480, , G320, 10X",
-    "image": "/productos/acc-r783-147.jpg",
+    "image": "/productos/acc-r783-147-hq.png",
     "priceLabel": "Consultar precio",
     "gama": "EXPERT",
     "segment": "Hoja.S D.E L-000",
@@ -28615,7 +28769,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Disco corte Multiwheel 4 \"",
-    "image": "/productos/acc-r800-136.png",
+    "image": "/productos/acc-r800-136-hq.png",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Disc.Os .Mul-000",
@@ -28742,7 +28896,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "N880 GROSSO A",
-    "image": "/productos/acc-r805-21.png",
+    "image": "/productos/acc-r805-21-hq.png",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Paño.S A.Bra-000",
@@ -28963,7 +29117,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Expert Hex-9 HARDCERAMIC:",
-    "image": "/productos/acc-r811-138.jpg",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "EXPERT",
     "segment": "Mech.As .Exp-000",
@@ -29008,7 +29162,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "SIERRA COPA MULTIMATERIAL COBALTO",
-    "image": "/productos/acc-r827-143.png",
+    "image": "/productos/acc-r827-143-hq.png",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "SIERRAS COPA Multimaterial",
@@ -29052,7 +29206,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Hoja de Calar T345XF (Madera y Metal)",
-    "image": "/productos/acc-r856-140.png",
+    "image": null,
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Sier.Ras. Co-000",
@@ -29448,7 +29602,7 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "HOJA SIERRA STANDARD WOOD 20D",
-    "image": "/productos/acc-r867-145.jpg",
+    "image": "/productos/acc-r867-145-hq.png",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Disc.Os .De -000",

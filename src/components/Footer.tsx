@@ -7,7 +7,23 @@ export function Footer() {
     <footer className="site-footer">
       <div className="container site-footer__grid">
         <div>
-          <p className="site-footer__brand">Bosch Tools Uruguay</p>
+          <p className="site-footer__brand">
+            <img
+              src={`${import.meta.env.BASE_URL}brand/bosch-logo.svg`}
+              alt="Bosch"
+              width={120}
+              height={28}
+              className="site-footer__logo"
+            />
+            Bosch Tools Uruguay
+            <img
+              className="site-footer__flag"
+              src={`${import.meta.env.BASE_URL}brand/flag-uruguay.svg`}
+              alt="Uruguay"
+              width={22}
+              height={15}
+            />
+          </p>
           <p className="site-footer__text">{SITE.tagline}</p>
           <p className="site-footer__text site-footer__text--small">
             {SITE.disclaimer}
