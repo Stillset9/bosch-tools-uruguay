@@ -224,9 +224,6 @@
     border-bottom: 1px solid rgba(255, 255, 255, 0.12);
   }
 
-  .header-actions__wa {
-    display: none;
-  }
 }
 
 @media (max-width: 560px) {

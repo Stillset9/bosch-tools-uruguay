@@ -1,6 +1,7 @@
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import { Footer } from './components/Footer';
 import { Header } from './components/Header';
+import { WhatsAppButton } from './components/WhatsAppButton';
 import { CatalogPage } from './pages/CatalogPage';
 import { ContactPage } from './pages/ContactPage';
 import { HomePage } from './pages/HomePage';
@@ -30,6 +31,7 @@ export default function App() {
         </Routes>
       </main>
       <Footer />
+      <WhatsAppButton />
     </BrowserRouter>
   );
 }

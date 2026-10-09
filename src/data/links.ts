@@ -18,11 +18,20 @@ export const OFFICIAL = {
 } as const;
 
 /**
- * WhatsApp solo se muestra si se configura un número real autorizado.
- * Ejemplo en .env: VITE_WHATSAPP_NUMBER=59899123456
+ * WhatsApp autorizado del responsable del sitio.
+ * Formato wa.me: código país + número sin el 0 inicial (UY).
+ * Se puede sobreescribir con VITE_WHATSAPP_NUMBER.
  */
-export const WHATSAPP_NUMBER =
-  (import.meta.env.VITE_WHATSAPP_NUMBER as string | undefined)?.trim() || '';
+export const WHATSAPP_NUMBER = (
+  (import.meta.env.VITE_WHATSAPP_NUMBER as string | undefined)?.trim() ||
+  '59892647014'
+).replace(/\D/g, '');
+
+export const WHATSAPP_DISPLAY = '+598 92 647 014';
+
+export const WHATSAPP_URL = `https://wa.me/${WHATSAPP_NUMBER}?text=${encodeURIComponent(
+  'Hola, quiero consultar por herramientas Bosch.',
+)}`;
 
 export const SITE = {
   name: 'Bosch Tools Uruguay',

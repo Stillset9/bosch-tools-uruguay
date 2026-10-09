@@ -1,7 +1,7 @@
 import { useEffect, useId, useState, type FormEvent } from 'react';
 import { Link, NavLink, useLocation, useNavigate } from 'react-router-dom';
 import { categories } from '../data/categories';
-import { OFFICIAL, SITE, WHATSAPP_NUMBER } from '../data/links';
+import { OFFICIAL, SITE, WHATSAPP_URL } from '../data/links';
 import './Header.css';
 
 const navItems = [
@@ -143,16 +143,14 @@ export function Header() {
             >
               Distribuidores UY
             </a>
-            {WHATSAPP_NUMBER ? (
-              <a
-                className="btn btn--red header-actions__wa"
-                href={`https://wa.me/${WHATSAPP_NUMBER}`}
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                WhatsApp
-              </a>
-            ) : null}
+            <a
+              className="btn btn--red header-actions__wa"
+              href={WHATSAPP_URL}
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              WhatsApp
+            </a>
             <button
               type="button"
               className="menu-toggle"
