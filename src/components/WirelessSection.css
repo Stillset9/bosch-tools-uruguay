@@ -1,0 +1,71 @@
+.wireless {
+  position: relative;
+  color: var(--white);
+  overflow: hidden;
+  background: var(--bosch-blue);
+}
+
+.wireless__bg {
+  position: absolute;
+  inset: 0;
+  opacity: 0.28;
+}
+
+.wireless__bg img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.wireless__content {
+  position: relative;
+  z-index: 1;
+}
+
+.wireless h2,
+.wireless h3 {
+  color: var(--white);
+}
+
+.wireless .section__lead {
+  color: rgba(255, 255, 255, 0.86);
+}
+
+.wireless__grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1rem;
+  margin-top: 2rem;
+}
+
+.wireless__card {
+  padding: 1.35rem 1.25rem;
+  background: rgba(255, 255, 255, 0.08);
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  backdrop-filter: blur(4px);
+}
+
+.wireless__card p {
+  color: rgba(255, 255, 255, 0.82);
+  font-size: 0.95rem;
+}
+
+.wireless__card a {
+  color: #9ad4f5;
+  font-family: var(--font-display);
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  font-size: 0.9rem;
+  text-decoration: none;
+}
+
+.wireless__card a:hover {
+  color: var(--white);
+}
+
+@media (max-width: 860px) {
+  .wireless__grid {
+    grid-template-columns: 1fr;
+  }
+}

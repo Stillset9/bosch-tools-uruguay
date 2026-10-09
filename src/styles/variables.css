@@ -1,0 +1,39 @@
+:root {
+  --bosch-blue: #001e50;
+  --bosch-blue-mid: #003399;
+  --bosch-blue-bright: #007bc0;
+  --bosch-red: #e20015;
+  --white: #ffffff;
+  --graphite: #121212;
+  --gray-900: #1a1a1a;
+  --gray-700: #3d3d3d;
+  --gray-500: #6b6b6b;
+  --gray-300: #c4c4c4;
+  --gray-100: #f2f2f2;
+  --gray-50: #f7f7f7;
+  --surface: #eef0f3;
+  --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.08);
+  --shadow-md: 0 8px 24px rgba(0, 30, 80, 0.12);
+  --radius: 2px;
+  --header-h: 72px;
+  --max: 1200px;
+  --font-display: 'Barlow Condensed', 'Arial Narrow', sans-serif;
+  --font-body: 'Source Sans 3', 'Segoe UI', sans-serif;
+  --ease: cubic-bezier(0.22, 1, 0.36, 1);
+  --transition: 180ms var(--ease);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  :root {
+    --transition: 0ms;
+  }
+
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}

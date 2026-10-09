@@ -1,0 +1,126 @@
+.product-detail {
+  display: grid;
+  grid-template-columns: 1fr 1.1fr;
+  gap: 2.5rem;
+  align-items: start;
+}
+
+.product-detail__stage {
+  position: relative;
+  background: var(--gray-50);
+  border: 1px solid var(--gray-300);
+  min-height: 320px;
+}
+
+.product-detail__stage img {
+  width: 100%;
+  aspect-ratio: 1;
+  object-fit: cover;
+}
+
+.product-detail__credit {
+  margin: 0;
+  padding: 0.5rem 0.75rem;
+  font-size: 0.75rem;
+  color: var(--gray-500);
+  background: var(--white);
+}
+
+.product-detail__thumbs {
+  display: flex;
+  gap: 0.5rem;
+  margin-top: 0.75rem;
+}
+
+.product-detail__thumbs button {
+  min-height: 40px;
+  padding: 0.4rem 0.9rem;
+  border: 1px solid var(--gray-300);
+  background: var(--white);
+  font-family: var(--font-display);
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+
+.product-detail__thumbs button.is-active {
+  border-color: var(--bosch-blue);
+  background: var(--bosch-blue);
+  color: var(--white);
+}
+
+.product-detail__info h1 {
+  font-size: clamp(2rem, 4vw, 3rem);
+  margin-bottom: 0.25rem;
+}
+
+.product-detail__subtitle {
+  color: var(--gray-500);
+  margin-bottom: 0.35rem;
+}
+
+.product-detail__order {
+  font-size: 0.9rem;
+  color: var(--gray-700);
+}
+
+.product-detail__block {
+  margin-top: 2rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--gray-300);
+}
+
+.product-detail__block h2 {
+  font-size: 1.35rem;
+  margin-bottom: 0.85rem;
+}
+
+.product-detail__block ul {
+  margin: 0;
+  padding-left: 1.15rem;
+  display: grid;
+  gap: 0.4rem;
+}
+
+.product-detail__note {
+  margin-top: 0.85rem;
+  font-size: 0.85rem;
+  color: var(--gray-500);
+}
+
+.spec-list {
+  margin: 0;
+  display: grid;
+  gap: 0.45rem;
+}
+
+.spec-list > div {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.75rem;
+  padding: 0.55rem 0;
+  border-bottom: 1px solid var(--gray-100);
+  font-size: 0.95rem;
+}
+
+.spec-list dt {
+  color: var(--gray-500);
+}
+
+.spec-list dd {
+  margin: 0;
+  font-weight: 600;
+  color: var(--gray-900);
+}
+
+@media (max-width: 860px) {
+  .product-detail {
+    grid-template-columns: 1fr;
+  }
+
+  .spec-list > div {
+    grid-template-columns: 1fr;
+    gap: 0.15rem;
+  }
+}
