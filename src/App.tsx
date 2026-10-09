@@ -13,7 +13,7 @@ import './App.page.css';
 
 export default function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename={import.meta.env.BASE_URL.replace(/\/$/, '') || '/'}>
       <a className="skip-link" href="#contenido">
         Saltar al contenido
       </a>
