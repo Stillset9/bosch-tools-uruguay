@@ -2,11 +2,13 @@ import { Link } from 'react-router-dom';
 import { ActivityGrid } from '../components/ActivityGrid';
 import { CategoryGrid } from '../components/CategoryGrid';
 import { Hero } from '../components/Hero';
+import { OfferBanner } from '../components/OfferBanner';
 import { ProductCard } from '../components/ProductCard';
 import { ProfessionalSystems } from '../components/ProfessionalSystems';
 import { ServiceSection } from '../components/ServiceSection';
 import { WirelessSection } from '../components/WirelessSection';
 import { ScrollReveal } from '../components/ScrollReveal';
+import { currentOffers } from '../data/offers';
 import { products } from '../data/products';
 import { OFFICIAL } from '../data/links';
 import { useDocumentMeta } from '../hooks/useDocumentMeta';
@@ -48,6 +50,20 @@ export function HomePage() {
           </ScrollReveal>
         </div>
       </section>
+
+      {currentOffers[0] ? (
+        <section className="section section--alt" aria-labelledby="offer-home-title">
+          <div className="container">
+            <ScrollReveal>
+              <p className="section__eyebrow">Este mes</p>
+              <h2 id="offer-home-title">Oferta destacada</h2>
+            </ScrollReveal>
+            <ScrollReveal>
+              <OfferBanner offer={currentOffers[0]} compact />
+            </ScrollReveal>
+          </div>
+        </section>
+      ) : null}
 
       <CategoryGrid />
 

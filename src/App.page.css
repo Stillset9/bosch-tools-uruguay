@@ -50,6 +50,12 @@
   color: var(--bosch-red);
 }
 
+.offers-list {
+  display: grid;
+  gap: 1.5rem;
+  margin-top: 2rem;
+}
+
 .contact-page {
   display: grid;
   grid-template-columns: 0.9fr 1.1fr;

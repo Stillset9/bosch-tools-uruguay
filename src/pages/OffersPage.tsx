@@ -1,4 +1,6 @@
 import { Link } from 'react-router-dom';
+import { OfferBanner } from '../components/OfferBanner';
+import { currentOffers } from '../data/offers';
 import { OFFICIAL } from '../data/links';
 import { useDocumentMeta } from '../hooks/useDocumentMeta';
 
@@ -6,33 +8,26 @@ export function OffersPage() {
   useDocumentMeta({
     title: 'Ofertas | Bosch Tools Uruguay',
     description:
-      'No publicamos descuentos inventados. Consultá promociones oficiales y precios con distribuidores Bosch en Uruguay.',
+      'Plan Canje Bosch y promociones del mes. Consultá condiciones y disponibilidad con distribuidores en Uruguay.',
   });
 
   return (
     <section className="section">
-      <div className="container" style={{ maxWidth: '720px' }}>
+      <div className="container">
         <p className="section__eyebrow">Ofertas</p>
-        <h1>Promociones y disponibilidad</h1>
+        <h1>Promociones del mes</h1>
         <p className="section__lead">
-          En este sitio no inventamos precios, descuentos ni stock. Las
-          condiciones comerciales las definen los distribuidores y las campañas
-          oficiales de Bosch.
+          Campañas vigentes publicadas en este sitio. Las condiciones finales las
+          confirma el distribuidor al momento de la consulta.
         </p>
-        <div className="error-block" style={{ marginBottom: '1.5rem' }}>
-          Si hay una promoción activa (por ejemplo ampliación de garantía),
-          verificála siempre en el sitio oficial o con un distribuidor
-          autorizado.
+
+        <div className="offers-list">
+          {currentOffers.map((offer) => (
+            <OfferBanner key={offer.id} offer={offer} />
+          ))}
         </div>
-        <div className="btn-group">
-          <a
-            className="btn btn--red"
-            href={OFFICIAL.home}
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Ver novedades oficiales
-          </a>
+
+        <div className="btn-group" style={{ marginTop: '2rem' }}>
           <a
             className="btn btn--outline"
             href={OFFICIAL.dealers}
