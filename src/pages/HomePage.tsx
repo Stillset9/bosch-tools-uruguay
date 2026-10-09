@@ -20,7 +20,7 @@ export function HomePage() {
       'Catálogo informativo de herramientas Bosch Professional para Uruguay: inalámbricas 18V, medición, accesorios EXPERT, distribuidores y servicio técnico.',
   });
 
-  const featured = products.slice(0, 6);
+  const featured = products.filter((p) => p.image).slice(0, 6);
 
   return (
     <>
@@ -73,8 +73,8 @@ export function HomePage() {
             <p className="section__eyebrow">Selección</p>
             <h2 id="featured-title">Modelos de referencia</h2>
             <p className="section__lead">
-              Especificaciones tomadas del sitio oficial Bosch Professional
-              Uruguay. Precio: consultar. Sin stock inventado.
+              Selección del catálogo Mayo 2026. Fotos y descripciones del
+              listado de referencia. Precio: consultar. Sin stock inventado.
             </p>
           </ScrollReveal>
           <ul className="product-grid" style={{ marginTop: '2rem' }}>

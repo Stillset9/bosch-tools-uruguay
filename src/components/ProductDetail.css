@@ -18,6 +18,12 @@
   object-fit: cover;
 }
 
+.product-detail__photo {
+  object-fit: contain !important;
+  padding: 1.5rem;
+  background: #f5f6f8;
+}
+
 .product-detail__credit {
   margin: 0;
   padding: 0.5rem 0.75rem;

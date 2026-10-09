@@ -1,3 +1,4 @@
+import { useState } from 'react';
 import { Link } from 'react-router-dom';
 import type { Product } from '../types';
 import { ProductPlaceholder } from './ProductPlaceholder';
@@ -8,26 +9,41 @@ interface Props {
 }
 
 export function ProductCard({ product }: Props) {
+  const [imgFailed, setImgFailed] = useState(false);
+  const showPhoto = Boolean(product.image) && !imgFailed;
+
   return (
     <article className="product-card">
       <Link to={`/producto/${product.slug}`} className="product-card__media">
-        <ProductPlaceholder label={product.imagePlaceholder} />
+        {showPhoto ? (
+          <img
+            className="product-card__photo"
+            src={product.image!}
+            alt={`${product.model} — ${product.name}`}
+            loading="lazy"
+            width={480}
+            height={480}
+            onError={() => setImgFailed(true)}
+          />
+        ) : (
+          <ProductPlaceholder label={product.imagePlaceholder} />
+        )}
       </Link>
       <div className="product-card__body">
         <div className="product-card__meta">
           <span className="badge badge--blue">{product.gama}</span>
-          <span className="badge">{product.voltage}</span>
+          {product.voltage !== 'N/A' ? (
+            <span className="badge">{product.voltage}</span>
+          ) : null}
         </div>
         <h3>
-          <Link to={`/producto/${product.slug}`}>
-            {product.model}
-          </Link>
+          <Link to={`/producto/${product.slug}`}>{product.model}</Link>
         </h3>
         <p className="product-card__name">{product.name}</p>
         <p className="product-card__desc">{product.shortDescription}</p>
         <ul className="product-card__specs">
           {product.specs.slice(0, 3).map((spec) => (
-            <li key={spec.label}>
+            <li key={`${spec.label}-${spec.value}`}>
               <strong>{spec.label}:</strong> {spec.value}
             </li>
           ))}

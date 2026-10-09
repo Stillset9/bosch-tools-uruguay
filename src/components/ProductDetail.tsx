@@ -10,21 +10,36 @@ interface Props {
   product: Product;
 }
 
+type Slide =
+  | { type: 'photo'; src: string; alt: string }
+  | { type: 'placeholder'; label: string }
+  | { type: 'context'; src: string; alt: string; credit?: string };
+
 export function ProductDetail({ product }: Props) {
   const category = getCategoryById(product.categoryId);
   const [slide, setSlide] = useState(0);
+  const [photoFailed, setPhotoFailed] = useState(false);
 
-  const slides = [
-    { type: 'placeholder' as const, label: product.imagePlaceholder },
-    {
-      type: 'context' as const,
-      src: category?.image,
-      alt: category?.imageAlt ?? 'Contexto de aplicación',
-      credit: category?.imageCredit,
-    },
-  ];
+  const slides: Slide[] = [];
+  if (product.image && !photoFailed) {
+    slides.push({
+      type: 'photo',
+      src: product.image,
+      alt: `${product.model} — ${product.name}`,
+    });
+  } else {
+    slides.push({ type: 'placeholder', label: product.imagePlaceholder });
+  }
+  if (category?.image) {
+    slides.push({
+      type: 'context',
+      src: category.image,
+      alt: category.imageAlt ?? 'Contexto de aplicación',
+      credit: category.imageCredit,
+    });
+  }
 
-  const current = slides[slide];
+  const current = slides[slide] ?? slides[0];
 
   return (
     <article className="product-detail">
@@ -32,6 +47,18 @@ export function ProductDetail({ product }: Props) {
         <div className="product-detail__stage">
           {current.type === 'placeholder' ? (
             <ProductPlaceholder label={current.label} />
+          ) : current.type === 'photo' ? (
+            <img
+              className="product-detail__photo"
+              src={current.src}
+              alt={current.alt}
+              width={800}
+              height={800}
+              onError={() => {
+                setPhotoFailed(true);
+                setSlide(0);
+              }}
+            />
           ) : (
             <>
               <img
@@ -42,7 +69,7 @@ export function ProductDetail({ product }: Props) {
                 height={800}
               />
               <p className="product-detail__credit">
-                {current.credit} · contexto de aplicación, no ficha oficial
+                {current.credit} · contexto de aplicación
               </p>
             </>
           )}
@@ -50,14 +77,14 @@ export function ProductDetail({ product }: Props) {
         <div className="product-detail__thumbs" role="tablist" aria-label="Galería">
           {slides.map((s, i) => (
             <button
-              key={i}
+              key={`${s.type}-${i}`}
               type="button"
               role="tab"
               aria-selected={slide === i}
               className={slide === i ? 'is-active' : ''}
               onClick={() => setSlide(i)}
             >
-              {s.type === 'placeholder' ? 'Producto' : 'Aplicación'}
+              {s.type === 'context' ? 'Aplicación' : 'Producto'}
             </button>
           ))}
         </div>
@@ -93,41 +120,34 @@ export function ProductDetail({ product }: Props) {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Ficha oficial Bosch
+            Ver en Bosch oficial
           </a>
         </div>
 
-        <section className="product-detail__block">
-          <h2>Especificaciones verificadas</h2>
-          <dl className="spec-list">
-            {product.specs.map((spec) => (
-              <div key={spec.label}>
-                <dt>{spec.label}</dt>
-                <dd>{spec.value}</dd>
-              </div>
-            ))}
-          </dl>
-          <p className="product-detail__note">
-            Las especificaciones pueden variar según variante y condiciones de
-            uso. Confirmá siempre en la fuente oficial.
-          </p>
-        </section>
-
-        <section className="product-detail__block">
-          <h2>Destacados</h2>
-          <ul>
-            {product.features.map((f) => (
-              <li key={f}>{f}</li>
-            ))}
-          </ul>
-        </section>
-
-        {product.compatibleAccessories?.length ? (
+        {product.specs.length ? (
           <section className="product-detail__block">
-            <h2>Accesorios / compatibilidad</h2>
+            <h2>Especificaciones</h2>
+            <dl className="spec-list">
+              {product.specs.map((spec) => (
+                <div key={`${spec.label}-${spec.value}`}>
+                  <dt>{spec.label}</dt>
+                  <dd>{spec.value}</dd>
+                </div>
+              ))}
+            </dl>
+            <p className="product-detail__note">
+              Datos del catálogo de referencia. Confirmá variantes y contenido
+              del kit con el distribuidor. Precio: consultar.
+            </p>
+          </section>
+        ) : null}
+
+        {product.features.length ? (
+          <section className="product-detail__block">
+            <h2>Detalle / incluye</h2>
             <ul>
-              {product.compatibleAccessories.map((a) => (
-                <li key={a}>{a}</li>
+              {product.features.map((f) => (
+                <li key={f}>{f}</li>
               ))}
             </ul>
           </section>
@@ -138,15 +158,6 @@ export function ProductDetail({ product }: Props) {
           <ul>
             <li>
               <a
-                href={product.officialUrl}
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                Página oficial del producto / catálogo
-              </a>
-            </li>
-            <li>
-              <a
                 href={OFFICIAL.services}
                 target="_blank"
                 rel="noopener noreferrer"
@@ -154,17 +165,15 @@ export function ProductDetail({ product }: Props) {
                 Manuales y descargas (sitio oficial)
               </a>
             </li>
-            {product.manualUrl ? (
-              <li>
-                <a
-                  href={product.manualUrl}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  Manual directo
-                </a>
-              </li>
-            ) : null}
+            <li>
+              <a
+                href={OFFICIAL.dealers}
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Consultar distribuidor en Uruguay
+              </a>
+            </li>
           </ul>
         </section>
       </div>

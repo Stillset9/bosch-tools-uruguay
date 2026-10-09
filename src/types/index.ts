@@ -35,9 +35,13 @@ export interface Product {
   officialUrl: string;
   manualUrl?: string;
   imagePlaceholder: string;
+  /** Foto del producto desde el catálogo local (si existe). */
+  image?: string | null;
   imageCredit?: string;
   priceLabel: 'Consultar precio';
   gama: 'Professional' | 'EXPERT';
+  segment?: string;
+  source?: string;
 }
 
 export interface Category {

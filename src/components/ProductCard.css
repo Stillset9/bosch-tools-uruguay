@@ -18,6 +18,16 @@
 .product-card__media {
   display: block;
   text-decoration: none;
+  background: #f5f6f8;
+  border-bottom: 1px solid var(--gray-300);
+}
+
+.product-card__photo {
+  width: 100%;
+  aspect-ratio: 1;
+  object-fit: contain;
+  padding: 1rem;
+  background: #f5f6f8;
 }
 
 .product-card__body {
