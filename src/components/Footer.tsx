@@ -100,11 +100,14 @@ export function Footer() {
         </div>
       </div>
       <div className="site-footer__bottom">
-        <div className="container">
+        <div className="container site-footer__bottom-inner">
           <p>
             © {new Date().getFullYear()} {SITE.name}. Marcas y nombres de
             productos son propiedad de sus respectivos titulares. Bosch es marca
             registrada de Robert Bosch GmbH.
+          </p>
+          <p className="site-footer__credit">
+            {SITE.authorNote}
           </p>
         </div>
       </div>

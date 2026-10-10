@@ -4267,11 +4267,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Caja de herramientas",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-caja-de-herramientas-caja-de-herramientas.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Cajas Plásticas y carritos de transporte",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "1600a003bh",
@@ -4311,11 +4312,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "SOFTBAG",
-    "image": null,
+    "image": "/productos/web/web-acc-softbag.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Cajas Plásticas y carritos de transporte",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "1600a003bk",
@@ -4355,11 +4357,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Tool Bag",
-    "image": null,
+    "image": "/productos/web/web-acc-tool-bag.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Cajas Plásticas y carritos de transporte",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "1600a007sf",
@@ -4394,11 +4397,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "L-BOXX Mini",
-    "image": null,
+    "image": "/productos/web/web-acc-l-boxx-mini.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Cajas Plásticas y carritos de transporte",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "1600a012fz",
@@ -4433,11 +4437,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "L-BOXX 102",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-l-boxx-102.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Cajas Plásticas y carritos de transporte",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "1600a016na",
@@ -4472,11 +4477,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "L-BOXX 102",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-l-boxx-102.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Cajas Plásticas y carritos de transporte",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "1600a012g0",
@@ -4520,11 +4526,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "LS-BOXX 136",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-ls-boxx.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Cajas Plásticas y carritos de transporte",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "1600a001rw",
@@ -4568,7 +4575,8 @@
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Cajas Plásticas y carritos de transporte",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "1600a001s8",
@@ -4616,7 +4624,8 @@
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Cajas Plásticas y carritos de transporte",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "1600a00223",
@@ -4660,7 +4669,8 @@
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Cajas Plásticas y carritos de transporte",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "1600a012g2",
@@ -4695,11 +4705,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "L-BOXX 238",
-    "image": null,
+    "image": "/productos/web/web-acc-l-boxx-238.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Cajas Plásticas y carritos de transporte",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "1600a012g3",
@@ -4743,7 +4754,8 @@
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Cajas Plásticas y carritos de transporte",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "1600a001s9",
@@ -4787,7 +4799,8 @@
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Soporte con ruedas para L-Boxx",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "06011b50e0",
@@ -7839,11 +7852,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GHG 180",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-ghg-180.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Pistolas de Calor",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "06012a62e0",
@@ -7888,11 +7902,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GHG 20-63",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-ghg-20-63.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Pistolas de Calor",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "06012a80e1",
@@ -8763,11 +8778,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "GVC 22 EX",
-    "image": null,
+    "image": "/productos/web/web-acc-gvc-22-ex.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Vibrador de Concreto",
-    "source": "GLOBAL TOOLS Mayo 2026"
+    "source": "GLOBAL TOOLS Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "06012370e0",
@@ -9574,7 +9590,8 @@
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Accesorios jardín",
-    "source": "OG Mayo 2026"
+    "source": "OG Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "f016800628",
@@ -9611,7 +9628,8 @@
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Accesorios jardín",
-    "source": "OG Mayo 2026"
+    "source": "OG Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "f016800647",
@@ -9648,7 +9666,8 @@
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Accesorios jardín",
-    "source": "OG Mayo 2026"
+    "source": "OG Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "f016800359",
@@ -9681,11 +9700,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Cepillo de limpieza",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-cepillo-de-limpieza-cepillo-de-limpieza.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Accesorios Hidrolavadora",
-    "source": "OG Mayo 2026"
+    "source": "OG Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "f016800360",
@@ -9726,7 +9746,8 @@
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Accesorios Hidrolavadora",
-    "source": "OG Mayo 2026"
+    "source": "OG Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "f016800509",
@@ -9759,7 +9780,8 @@
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Accesorios Hidrolavadora",
-    "source": "OG Mayo 2026"
+    "source": "OG Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "f016800536",
@@ -9829,11 +9851,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Filtro Externo",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-filtro-externo-filtro-exte.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Accesorios Hidrolavadora",
-    "source": "OG Mayo 2026"
+    "source": "OG Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "f016800582",
@@ -9870,7 +9893,8 @@
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Accesorios Hidrolavadora",
-    "source": "OG Mayo 2026"
+    "source": "OG Mayo 2026",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "0601072xg0",
@@ -12158,11 +12182,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "2608.001.157-000",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-accesorio-electricista.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "",
-    "source": "ELECTRICIDAD"
+    "source": "ELECTRICIDAD",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "matriz-de-perforacion-2",
@@ -12189,11 +12214,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "2608.001.158-000",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-accesorio-electricista.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "",
-    "source": "ELECTRICIDAD"
+    "source": "ELECTRICIDAD",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "matriz-de-perforacion-3",
@@ -12220,11 +12246,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "2608.001.159-000",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-accesorio-electricista.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "",
-    "source": "ELECTRICIDAD"
+    "source": "ELECTRICIDAD",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "matriz-de-perforacion-4",
@@ -12251,11 +12278,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "2608.001.160-000",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-accesorio-electricista.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "",
-    "source": "ELECTRICIDAD"
+    "source": "ELECTRICIDAD",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "clavadora",
@@ -12534,11 +12562,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "2608.001.122-000",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-accesorio-electricista.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "",
-    "source": "ELECTRICIDAD"
+    "source": "ELECTRICIDAD",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "matriz-de-prensado-2",
@@ -12565,11 +12594,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "2608.001.123-000",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-accesorio-electricista.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "",
-    "source": "ELECTRICIDAD"
+    "source": "ELECTRICIDAD",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "matriz-de-prensado-3",
@@ -12596,11 +12626,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "2608.001.124-000",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-accesorio-electricista.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "",
-    "source": "ELECTRICIDAD"
+    "source": "ELECTRICIDAD",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "matriz-de-prensado-4",
@@ -12627,11 +12658,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "2608.001.125-000",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-accesorio-electricista.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "",
-    "source": "ELECTRICIDAD"
+    "source": "ELECTRICIDAD",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "matriz-de-prensado-5",
@@ -12658,11 +12690,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "2608.001.126-000",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-accesorio-electricista.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "",
-    "source": "ELECTRICIDAD"
+    "source": "ELECTRICIDAD",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "matriz-de-prensado-6",
@@ -12689,11 +12722,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "2608.001.127-000",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-accesorio-electricista.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "",
-    "source": "ELECTRICIDAD"
+    "source": "ELECTRICIDAD",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "matriz-de-prensado-7",
@@ -12720,11 +12754,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "2608.001.128-000",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-accesorio-electricista.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "",
-    "source": "ELECTRICIDAD"
+    "source": "ELECTRICIDAD",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "matriz-de-prensado-8",
@@ -12751,11 +12786,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "2608.001.129-000",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-accesorio-electricista.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "",
-    "source": "ELECTRICIDAD"
+    "source": "ELECTRICIDAD",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "matriz-de-prensado-9",
@@ -12782,11 +12818,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "2608.001.130-000",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-accesorio-electricista.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "",
-    "source": "ELECTRICIDAD"
+    "source": "ELECTRICIDAD",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "matriz-de-prensado-10",
@@ -12813,11 +12850,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "2608.001.131-000",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-accesorio-electricista.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "",
-    "source": "ELECTRICIDAD"
+    "source": "ELECTRICIDAD",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "matriz-de-prensado-11",
@@ -12844,11 +12882,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "2608.001.132-000",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-accesorio-electricista.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "",
-    "source": "ELECTRICIDAD"
+    "source": "ELECTRICIDAD",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "matriz-de-prensado-12",
@@ -12875,11 +12914,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "2608.001.133-000",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-accesorio-electricista.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "",
-    "source": "ELECTRICIDAD"
+    "source": "ELECTRICIDAD",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "matriz-de-prensado-13",
@@ -12906,11 +12946,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "2608.001.134-000",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-accesorio-electricista.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "",
-    "source": "ELECTRICIDAD"
+    "source": "ELECTRICIDAD",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-mini-x-line-con-para-perforar-y-atornillar",
@@ -12950,11 +12991,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Mini-X-Line para perforar y atornillar",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-mini-x-line.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Línea De Sets Azules Para Taladrar Y Atornillar",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-set-de-puntas-promoline",
@@ -13039,11 +13081,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Maletín X-Line para taladrar y atornilla",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-x-line.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Línea De Sets Azules Para Taladrar Y Atornillar",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-set-multic-y-puntas-x-line",
@@ -13083,11 +13126,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Set Multic y puntas \"X-Line\"",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-x-line.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Línea De Sets Azules Para Taladrar Y Atornillar",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-maletin-v-line-con-para-taladrar-y-atornillar",
@@ -13128,11 +13172,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Maletín V-line para taladrar y atornilla",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-v-line.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Línea De Sets Azules Para Taladrar Y Atornillar",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-set-de-43-puntas-para-atornillar",
@@ -13167,11 +13212,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Set de 43 puntas para atornillar",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-set-de-43-puntas-para-atornillar-set-de-43-pu.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Línea De Sets Azules Para Taladrar Y Atornillar",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-set-con-para-atornillar",
@@ -13211,11 +13257,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Set para atornillar",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-set-para-atornillar.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Set .De .Mec-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-mini-x-line-con-para-atornillar",
@@ -13255,11 +13302,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Mini-X-Line para atornillar",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-mini-x-line.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Set .De .Mec-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-set-con-para-atornillar-big-bit",
@@ -13299,11 +13347,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Set para atornillar (Big-Bit)",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-set-para-atornillar.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Set .De .Mec-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-set-con-para-atornillar-incluye-puntas-vasos-y-llave-de-carr",
@@ -13343,11 +13392,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Set para atornillar (incluye puntas, vas",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-set-para-atornillar.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Set .De .Mec-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-maletin-v-line-de-titanio-bosch-para-perforar-y-atornillar-i",
@@ -13387,11 +13437,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Maletín V-Line de titanio Bosch ( ) para",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-v-line.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Set .De .Mec-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-set-de-bolsillo-con-para-atornillar-pocket-set",
@@ -13431,11 +13482,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Set de bolsillo para atornillar (Pocket ",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-set-de-bolsillo-para-atornillar-pocket-set-se.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Set .De .Mec-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-mecha-cyl-1-impact",
@@ -13476,11 +13528,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Mecha CYL-1 (Impact)",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-mecha-cyl1-impact-mecha-cyl1-impact.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Mech.As .Par-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-juego-de-mechas-cyl-1-impact",
@@ -13561,11 +13614,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Mecha para metal PointTeQ",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-mecha-para-metal-pointteq-mecha-para-metal-po.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Mech.As .Par-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-mecha-hss-pointteq-10u",
@@ -13644,11 +13698,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Juego de Brocas p/metal HSS (10 brocas)",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-juego-de-brocas.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Mech.As .Par-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-mecha-espiral-para-madera",
@@ -14307,11 +14362,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Mecha SDS plus 5X - 4x50x110",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-mecha-sds-plus-5x.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Mech.As .Sds-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-mecha-sds-plus-5x-5x",
@@ -14351,11 +14407,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Mecha SDS plus 5X - 5X",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-mecha-sds-plus-5x.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Mech.As .Sds-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-mecha-sds-plus-5x-6x50x110",
@@ -14390,11 +14447,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Mecha SDS plus 5X - 6x50x110",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-mecha-sds-plus-5x.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Mech.As .Sds-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-mecha-sds-plus-5x-6x100x160",
@@ -14429,11 +14487,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Mecha SDS plus 5X - 6x100x160",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-mecha-sds-plus-5x.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Mech.As .Sds-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-mecha-sds-plus-5x-6x150x210",
@@ -14468,11 +14527,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Mecha SDS plus 5X - 6x150x210",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-mecha-sds-plus-5x.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Mech.As .Sds-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-mecha-sds-plus-5x-6-5x200x260",
@@ -14507,11 +14567,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Mecha SDS plus 5X - 6.5x200x260",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-mecha-sds-plus-5x.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Mech.As .Sds-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-mecha-sds-plus-5x-6-5x250x310",
@@ -14546,11 +14607,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Mecha SDS plus 5X - 6.5x250x310",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-mecha-sds-plus-5x.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Mech.As .Sds-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-mecha-sds-plus-5x-8x50x110",
@@ -14585,11 +14647,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Mecha SDS plus 5X - 8x50x110",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-mecha-sds-plus-5x.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Mech.As .Sds-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-mecha-sds-plus-5x-8x100x160",
@@ -14624,11 +14687,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Mecha SDS plus 5X - 8x100x160",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-mecha-sds-plus-5x.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Mech.As .Sds-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-mecha-sds-plus-5x-8x150x210",
@@ -14663,11 +14727,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Mecha SDS plus 5X - 8x150x210",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-mecha-sds-plus-5x.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Mech.As .Sds-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-mecha-sds-plus-5x-8x200x260",
@@ -14702,11 +14767,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Mecha SDS plus 5X - 8x200x260",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-mecha-sds-plus-5x.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Mech.As .Sds-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-mecha-sds-plus-5x-8x250x310",
@@ -14741,11 +14807,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Mecha SDS plus 5X - 8x250x310",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-mecha-sds-plus-5x.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Mech.As .Sds-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-mecha-sds-plus-5x-8x300x360",
@@ -14780,11 +14847,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Mecha SDS plus 5X - 8x300x360",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-mecha-sds-plus-5x.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Mech.As .Sds-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-mecha-sds-plus-5x-8x400x460",
@@ -14819,11 +14887,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Mecha SDS plus 5X - 8x400x460",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-mecha-sds-plus-5x.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Mech.As .Sds-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-mecha-sds-plus-5x-10x50x110",
@@ -14858,11 +14927,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Mecha SDS plus 5X - 10x50x110",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-mecha-sds-plus-5x.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Mech.As .Sds-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-mecha-sds-plus-5x-10x100x160",
@@ -14897,11 +14967,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Mecha SDS plus 5X - 10x100x160",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-mecha-sds-plus-5x.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Mech.As .Sds-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-mecha-sds-plus-5x-10x150x210",
@@ -14936,11 +15007,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Mecha SDS plus 5X - 10x150x210",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-mecha-sds-plus-5x.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Mech.As .Sds-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-mecha-sds-plus-5x-10x200x260",
@@ -14975,11 +15047,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Mecha SDS plus 5X - 10x200x260",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-mecha-sds-plus-5x.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Mech.As .Sds-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-mecha-sds-plus-5x-10x250x310",
@@ -15014,11 +15087,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Mecha SDS plus 5X - 10x250x310",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-mecha-sds-plus-5x.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Mech.As .Sds-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-mecha-sds-plus-5x-10x300x360",
@@ -15053,11 +15127,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Mecha SDS plus 5X - 10x300x360",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-mecha-sds-plus-5x.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Mech.As .Sds-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-mecha-sds-plus-5x-10x400x460",
@@ -15092,11 +15167,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Mecha SDS plus 5X - 10x400x460",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-mecha-sds-plus-5x.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Mech.As .Sds-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-mecha-sds-plus-5x-11x100x160",
@@ -15131,11 +15207,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Mecha SDS plus 5X - 11x100x160",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-mecha-sds-plus-5x.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Mech.As .Sds-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-mecha-sds-plus-5x-11x200x260",
@@ -15170,11 +15247,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Mecha SDS plus 5X - 11x200x260",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-mecha-sds-plus-5x.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Mech.As .Sds-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-mecha-sds-plus-5x-12x100x160",
@@ -15209,11 +15287,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Mecha SDS plus 5X - 12x100x160",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-mecha-sds-plus-5x.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Mech.As .Sds-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-mecha-sds-plus-5x-12x150x210",
@@ -15248,11 +15327,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Mecha SDS plus 5X - 12x150x210",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-mecha-sds-plus-5x.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Mech.As .Sds-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-mecha-sds-plus-5x-12x200x260",
@@ -15287,11 +15367,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Mecha SDS plus 5X - 12x200x260",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-mecha-sds-plus-5x.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Mech.As .Sds-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-mecha-sds-plus-5x-12x250x310",
@@ -15326,11 +15407,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Mecha SDS plus 5X - 12x250x310",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-mecha-sds-plus-5x.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Mech.As .Sds-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-mecha-sds-plus-5x-12x300x360",
@@ -15365,11 +15447,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Mecha SDS plus 5X - 12x300x360",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-mecha-sds-plus-5x.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Mech.As .Sds-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-mecha-sds-plus-5x-12x400x460",
@@ -15404,11 +15487,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Mecha SDS plus 5X - 12x400x460",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-mecha-sds-plus-5x.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Mech.As .Sds-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-mecha-sds-plus-5x-12x550x610",
@@ -15443,11 +15527,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Mecha SDS plus 5X - 12x550x610",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-mecha-sds-plus-5x.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Mech.As .Sds-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-mecha-sds-plus-5x-13x100x160",
@@ -15482,11 +15567,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Mecha SDS plus 5X - 13x100x160",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-mecha-sds-plus-5x.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Mech.As .Sds-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-mecha-sds-plus-5x-13x200x260",
@@ -15521,11 +15607,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Mecha SDS plus 5X - 13x200x260",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-mecha-sds-plus-5x.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Mech.As .Sds-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-mecha-sds-plus-5x-14x100x160",
@@ -15560,11 +15647,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Mecha SDS plus 5X - 14x100x160",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-mecha-sds-plus-5x.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Mech.As .Sds-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-mecha-sds-plus-5x-14x150x210",
@@ -15599,11 +15687,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Mecha SDS plus 5X - 14x150x210",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-mecha-sds-plus-5x.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Mech.As .Sds-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-mecha-sds-plus-5x-14x250x310",
@@ -15638,11 +15727,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Mecha SDS plus 5X - 14x250x310",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-mecha-sds-plus-5x.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Mech.As .Sds-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-mecha-sds-plus-5x-14x400x460",
@@ -15677,11 +15767,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Mecha SDS plus 5X - 14x400x460",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-mecha-sds-plus-5x.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Mech.As .Sds-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-mecha-sds-plus-5x-14x550x610",
@@ -15716,11 +15807,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Mecha SDS plus 5X - 14x550x610",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-mecha-sds-plus-5x.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Mech.As .Sds-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-mecha-sds-plus-5x-15x100x160",
@@ -15755,11 +15847,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Mecha SDS plus 5X - 15x100x160",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-mecha-sds-plus-5x.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Mech.As .Sds-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-mecha-sds-plus-5x-15x200x260",
@@ -15794,11 +15887,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Mecha SDS plus 5X - 15x200x260",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-mecha-sds-plus-5x.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Mech.As .Sds-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-mecha-sds-plus-5x-16x150x210",
@@ -15833,11 +15927,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Mecha SDS plus 5X - 16x150x210",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-mecha-sds-plus-5x.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Mech.As .Sds-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-mecha-sds-plus-5x-16x250x310",
@@ -15872,11 +15967,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Mecha SDS plus 5X - 16x250x310",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-mecha-sds-plus-5x.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Mech.As .Sds-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-mecha-sds-plus-5x-16x400x460",
@@ -15911,11 +16007,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Mecha SDS plus 5X - 16x400x460",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-mecha-sds-plus-5x.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Mech.As .Sds-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-mecha-sds-plus-5x-17x150x210",
@@ -15950,11 +16047,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Mecha SDS plus 5X - 17x150x210",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-mecha-sds-plus-5x.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Mech.As .Sds-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-mecha-sds-plus-5x-18x150x200",
@@ -15989,11 +16087,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Mecha SDS plus 5X - 18x150x200",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-mecha-sds-plus-5x.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Mech.As .Sds-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-mecha-sds-plus-5x-18x400x450",
@@ -16028,11 +16127,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Mecha SDS plus 5X - 18x400x450",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-mecha-sds-plus-5x.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Mech.As .Sds-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-mecha-sds-plus-5x-19x150x200",
@@ -16067,11 +16167,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Mecha SDS plus 5X - 19x150x200",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-mecha-sds-plus-5x.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Mech.As .Sds-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-mecha-sds-plus-5x-19x400x450",
@@ -16106,11 +16207,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Mecha SDS plus 5X - 19x400x450",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-mecha-sds-plus-5x.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Mech.As .Sds-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-mecha-sds-plus-5x-20x150x200",
@@ -16145,11 +16247,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Mecha SDS plus 5X - 20x150x200",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-mecha-sds-plus-5x.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Mech.As .Sds-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-mecha-sds-plus-5x-20x400x450",
@@ -16184,11 +16287,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Mecha SDS plus 5X - 20x400x450",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-mecha-sds-plus-5x.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Mech.As .Sds-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-mecha-sds-plus-5x-22x200x250",
@@ -16223,11 +16327,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Mecha SDS plus 5X - 22x200x250",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-mecha-sds-plus-5x.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Mech.As .Sds-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-mecha-sds-plus-5x-22x400x450",
@@ -16262,11 +16367,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Mecha SDS plus 5X - 22x400x450",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-mecha-sds-plus-5x.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Mech.As .Sds-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-mecha-sds-plus-5x-24x200x250",
@@ -16301,11 +16407,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Mecha SDS plus 5X - 24x200x250",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-mecha-sds-plus-5x.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Mech.As .Sds-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-mecha-sds-plus-5x-24x400x450",
@@ -16340,11 +16447,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Mecha SDS plus 5X - 24x400x450",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-mecha-sds-plus-5x.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Mech.As .Sds-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-mecha-sds-plus-5x-25x200x250",
@@ -16379,11 +16487,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Mecha SDS plus 5X - 25x200x250",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-mecha-sds-plus-5x.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Mech.As .Sds-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-mecha-sds-plus-5x-25x400x450",
@@ -16418,11 +16527,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Mecha SDS plus 5X - 25x400x450",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-mecha-sds-plus-5x.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Mech.As .Sds-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-mecha-sds-plus-5x-26x200x250",
@@ -16457,11 +16567,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Mecha SDS plus 5X - 26x200x250",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-mecha-sds-plus-5x.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Mech.As .Sds-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-mecha-sds-plus-5x-26x400x450",
@@ -16496,11 +16607,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Mecha SDS plus 5X - 26x400x450",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-mecha-sds-plus-5x.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Mech.As .Sds-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-mecha-sds-plus-1",
@@ -16541,11 +16653,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Mecha SDS Plus-1",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-mecha-sds-plus-5x.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Mech.As .Sds-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-set-promoline-mechas-sds-plus-s2-x",
@@ -16585,11 +16698,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Set Promoline Mechas Sds Plus S2 X",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-mecha-sds-plus-5x.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Mech.As .Sds-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-cincel-sds-plus-punta-autoafilable",
@@ -16629,11 +16743,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Cincel SDS-Plus Punta Autoafilable",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-mecha-sds-plus-5x.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Cinc.Ele.S A-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-cincel-sds-plus-plano-autoafilable",
@@ -16673,11 +16788,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Cincel SDS-Plus Plano Autoafilable",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-mecha-sds-plus-5x.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Cinc.Ele.S A-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-cincel-punta-sds-plus-estandar",
@@ -16717,11 +16833,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Cincel Punta SDS Plus estandar",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-mecha-sds-plus-5x.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Cinc.Ele.S L-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-cincel-plano-sds-plus-estandar",
@@ -16761,11 +16878,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Cincel Plano SDS Plus estandar",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-mecha-sds-plus-5x.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Cinc.Ele.S L-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-mecha-sds-max-4-m4-x-340",
@@ -16805,11 +16923,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Mecha SDS max 4 (M4) x 340",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-sds-max.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Mech.As .Sds-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-mecha-sds-max-4-m4-x-540",
@@ -16850,11 +16969,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Mecha SDS max 4 (M4) x 540",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-sds-max.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Mech.As .Sds-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-mecha-sds-max-4-m4-x-320",
@@ -16894,11 +17014,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Mecha SDS max 4 (M4) x 320",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-sds-max.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Mech.As .Sds-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-mecha-sds-max-4-m4-x-520",
@@ -16939,11 +17060,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Mecha SDS max 4 (M4) x 520",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-sds-max.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Mech.As .Sds-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-mecha-sds-max-4-m4-x-450",
@@ -16983,11 +17105,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Mecha SDS max 4 (M4) x 450",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-sds-max.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Mech.As .Sds-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-cincel-sds-max-autafilable-punta",
@@ -17027,11 +17150,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Cincel SDS-Max Autafilable Punta",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-sds-max.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Cinc.El .Sds-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-cincel-sds-max-autoafilable-plano",
@@ -17071,11 +17195,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Cincel SDS-Max Autoafilable Plano",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-sds-max.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Cinc.El .Sds-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-cincel-sds-max-pala",
@@ -17116,11 +17241,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Cincel SDS-Max Pala",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-sds-max.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Cinc.Ele.S S-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-cincel-sds-max-ancho",
@@ -17160,11 +17286,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Cincel SDS-Max Ancho",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-sds-max.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Cinc.Ele.S S-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-cincel-sds-max-punta",
@@ -17204,11 +17331,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Cincel SDS-Max Punta",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-sds-max.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Cinc.Ele.S S-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-cincel-sds-max-punta-x-caja-x-10",
@@ -17248,11 +17376,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Cincel SDS-Max Punta x Caja x 10",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-sds-max.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Cinc.Ele.S S-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-cincel-sds-max-plano-caja-x-10",
@@ -17292,11 +17421,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Cincel SDS-Max Plano Caja x 10",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-sds-max.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Cinc.Ele.S S-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-cincel-punta-hexagonal-autoafilable-1-x",
@@ -17463,11 +17593,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Mandril Adapatador Mechas SDS-MAX a SDS-",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-mecha-sds-plus-5x.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Otro.S A.Cce-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-sierra-copa-bimetalica",
@@ -17508,11 +17639,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Sierra Copa Bimetálica ( )",
-    "image": null,
+    "image": "/productos/acc-r827-143-hq.png",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Sier.Ras. Co-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-sierra-copa-bimetalica-1",
@@ -17552,11 +17684,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Sierra Copa Bimetálica (1)",
-    "image": null,
+    "image": "/productos/acc-r827-143-hq.png",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Sier.Ras. Co-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-sierra-copa-bimetalica-1-2",
@@ -17597,11 +17730,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Sierra Copa Bimetálica (1 )",
-    "image": null,
+    "image": "/productos/acc-r827-143-hq.png",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Sier.Ras. Co-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-sierra-copa-bimetalica-2",
@@ -17641,11 +17775,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Sierra Copa Bimetálica",
-    "image": null,
+    "image": "/productos/acc-r827-143-hq.png",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Sier.Ras. Co-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-sierra-copa-bimetalica-2-2",
@@ -17686,11 +17821,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Sierra Copa Bimetálica (2 )",
-    "image": null,
+    "image": "/productos/acc-r827-143-hq.png",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Sier.Ras. Co-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-sierra-copa-bimetalica-3",
@@ -17730,11 +17866,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Sierra Copa Bimetálica (3)",
-    "image": null,
+    "image": "/productos/acc-r827-143-hq.png",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Sier.Ras. Co-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-mandril-para-sierras-copa-bi-matalicas-de-14-a-hexagonal",
@@ -17774,11 +17911,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Mandril para Sierras Copa Bi Matálicas d",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-mandril-para-sierras-copa-bi-matlicas-de-14-a.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Otro.S A.Cce-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-mandril-para-sierras-copa-bi-metalicas-de-32-a-hexagonal",
@@ -17818,11 +17956,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Mandril para Sierras Copa Bi Metálicas d",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-mandril-para-sierras-copa-bi-metlicas-de-32-a.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Otro.S A.Cce-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-punta-para-atornillar-phillips-x-3u",
@@ -17863,11 +18002,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Punta para Atornillar - Phillips - # - x",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-punta-para-atornillar-phillips-x-3u-punta.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Punt.As .Par-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-punta-para-atornillar-phillips-x-100u",
@@ -17907,11 +18047,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Punta para Atornillar - Phillips - # - x",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-punta-para-atornillar-phillips-x-100u-pun.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Punt.As .Par-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-cepillo-para-taladro-vastago-de",
@@ -17952,11 +18093,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Cepillo para Taladro - - Vástago de",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-cepillo-para-taladro-vstago-de-cepillo-para.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Cepi.Llo.S P-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-cepillo-para-taladro",
@@ -17996,11 +18138,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Cepillo para Taladro",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-cepillo-para-taladro-cepillo-para-taladro.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Cepi.Llo.S P-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-cepilo-para-taladro-acabado-brillante",
@@ -18172,11 +18315,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Mandril com llave ( x24UNF)",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-mandril-com-llave-x24unf-mandril-com-llave-.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Repu.Est.Os -000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-mandril-com-llave-x-20unf",
@@ -18216,11 +18360,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Mandril com llave ( x 20UNF)",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-mandril-com-llave-x-20unf-mandril-com-llave-.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Repu.Est.Os -000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-mandril-com-llave-conico",
@@ -18304,11 +18449,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Vástago para Adaptador SDS Plus (Mandril",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-vstago-para-adaptador-sds-plus-mandril-vstag.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Repu.Est.Os -000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-disco-diamantado-continuo-standard-for-ceramic",
@@ -18348,11 +18494,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Disco Diamantado - Continuo - - Standard",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-disco-diamant.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Disc.Os .Dia-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-disco-diamantado-segmentado-eco-for-universal",
@@ -18393,11 +18540,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Disco Diamantado - Segmentado - - ECO fo",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-disco-diamant.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Disc.Os .Dia-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-disco-diamantado-turbo-eco-for-universal",
@@ -18438,11 +18586,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Disco Diamantado - Turbo - - ECO for Uni",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-disco-diamant.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Disc.Os .Dia-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-disco-diamantado-segmentado-standard-for-concrete",
@@ -18482,11 +18631,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Disco Diamantado - Segmentado - - Standa",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-disco-diamant.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Disc.Os .Dia-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-disco-diamantado-para-metal",
@@ -18527,11 +18677,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Disco Diamantado para Metal",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-disco-diamant.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "..-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-disco-multiwheel-para-cortar-madera-con-amoladora",
@@ -18616,11 +18767,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Disco de Corte Rápido - - Expert for Ino",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-disco-de-corte.jpg",
     "priceLabel": "Consultar precio",
     "gama": "EXPERT",
     "segment": "Disc.Os .De -000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-disco-de-corte-expert-for-inox-recto",
@@ -18661,11 +18813,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Disco de Corte - - Expert for Inox - Rec",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-disco-de-corte.jpg",
     "priceLabel": "Consultar precio",
     "gama": "EXPERT",
     "segment": "Disc.Os .De -000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-disco-de-corte-expert-for-metal-recto",
@@ -18706,11 +18859,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Disco de Corte - - Expert for Metal Rect",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-disco-de-corte.jpg",
     "priceLabel": "Consultar precio",
     "gama": "EXPERT",
     "segment": "Disc.Os .De -000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-disco-de-corte-eco-para-metal-inox-recto",
@@ -18751,11 +18905,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Disco de Corte - - ECO para Metal + Inox",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-disco-de-corte.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Disc.Os .De -000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-disco-de-corte-standard-for-inox-recto",
@@ -18795,11 +18950,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Disco de Corte - - Standard for Inox - R",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-disco-de-corte.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Disc.Os .De -000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-disco-de-corte-santadard-for-inox-recto",
@@ -18839,11 +18995,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Disco de Corte - - Santadard for Inox - ",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-disco-de-corte.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Disc.Os .De -000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-set-de-10-discos-de-corte-standard-for-inox-recto-lata-x10-u",
@@ -18883,11 +19040,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Set de 10 Discos de Corte - - Standard f",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-set-de-10-discos-de-corte-standard-for-inox.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Disc.Os .De -000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-disco-de-corte-santadard-for-metal-recto",
@@ -18928,11 +19086,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Disco de Corte - - Santadard for Metal -",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-disco-de-corte.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Disc.Os .De -000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-disco-de-corte-rapido-expert-multiconstruccion-recto",
@@ -18972,11 +19131,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Disco de Corte Rápido - - Expert Multico",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-disco-de-corte.jpg",
     "priceLabel": "Consultar precio",
     "gama": "EXPERT",
     "segment": "Disc.Os .De -000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-disco-3-en-1-corte-desbaste-terminacion-expert-recto",
@@ -19016,11 +19176,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Disco 3 en 1 (Corte, Desbaste, Terminaci",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-disco-3-en-1-corte-desbaste-terminacin-expe.jpg",
     "priceLabel": "Consultar precio",
     "gama": "EXPERT",
     "segment": "Disc.Os .De -000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-disco-de-desbaste-expert-for-inox-centro-deprimido",
@@ -19060,11 +19221,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Disco de Desbaste - - Expert for Inox - ",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-disco-de-desbaste-expert-for-inox-centro-d.jpg",
     "priceLabel": "Consultar precio",
     "gama": "EXPERT",
     "segment": "Disc.Os .De -000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-disco-de-desbaste-expert-for-metal-centro-deprimido",
@@ -19105,11 +19267,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Disco de Desbaste - - Expert for Metal -",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-disco-de-desbaste-expert-for-metal-centro-.jpg",
     "priceLabel": "Consultar precio",
     "gama": "EXPERT",
     "segment": "Disc.Os .De -000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-disco-de-desbaste-standard-for-metal-centro-deprimido",
@@ -19150,11 +19313,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Disco de Desbaste - - Standard for Metal",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-disco-de-desbaste-standard-for-metal-centr.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Disc.Os .De -000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-vaso-de-amolar-angular-grano-medio",
@@ -19328,11 +19492,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Disco Flap Curvo - Base Fibra - Standard",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-disco-flap-curvo-base-fibra-standard-for-meta.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Disc.Os .Fla-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-disco-flap-curvo-base-fibra-standard-for-metal-br-grano-60",
@@ -19373,11 +19538,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Disco Flap Curvo - Base Fibra - Standard",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-disco-flap-curvo-base-fibra-standard-for-meta.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Disc.Os .Fla-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-disco-flap-curvo-base-fibra-standard-for-metal-br-grano-80",
@@ -19418,11 +19584,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Disco Flap Curvo - Base Fibra - Standard",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-disco-flap-curvo-base-fibra-standard-for-meta.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Disc.Os .Fla-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-disco-flap-curvo-base-fibra-standard-for-metal-br-grano-120",
@@ -19463,11 +19630,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Disco Flap Curvo - Base Fibra - Standard",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-disco-flap-curvo-base-fibra-standard-for-meta.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Disc.Os .Fla-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-disco-flap-curvo-base-fibra-best-for-metal-grano-60",
@@ -19502,11 +19670,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Disco Flap Curvo - Base fibra - Best for",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-disco-flap-curvo-base-fibra-best-for-metal-gr.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Disc.Os .Fla-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-disco-flap-curvo-base-fibra-best-for-metal-grano-80",
@@ -19541,11 +19710,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Disco Flap Curvo - Base fibra - Best for",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-disco-flap-curvo-base-fibra-best-for-metal-gr.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Disc.Os .Fla-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-plato-adherente-para-fibrodisco-4-5-m14",
@@ -19585,11 +19755,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Plato adherente para Fibrodisco 4,5'' ( ",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-plato-adherente-para-fibrodisco-45-m14-pla.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Plat.Os .Adh-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-plato-adherente-para-fibrodisco-5-m14",
@@ -19629,11 +19800,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Plato adherente para Fibrodisco 5'' ( ) ",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-plato-adherente-para-fibrodisco-5-m14-plat.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Plat.Os .Adh-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-plato-adherente-para-fibrodisco-7-m14",
@@ -19673,11 +19845,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Plato adherente para Fibrodisco 7'' ( ) ",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-plato-adherente-para-fibrodisco-7-m14-plat.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Plat.Os .Adh-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-cepillo-para-amoladora-ondulado-clean-for-inox-acabado-brill",
@@ -19717,11 +19890,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Cepillo para Amoladora Ondulado - Clean ",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-cepillo-para-amoladora-ondulado-clean-for-in.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Cepi.Llo.S P-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-cepillo-para-amoladora-ondulado-clean-for-metal-acabado-bril",
@@ -19761,11 +19935,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Cepillo para Amoladora Ondulado - Clean ",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-cepillo-para-amoladora-ondulado-clean-for-me.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Cepi.Llo.S P-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-cepillo-para-amoladora-trenzado-heavy-for-metal-acabado-mate",
@@ -19805,11 +19980,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Cepillo para Amoladora Trenzado - Heavy ",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-cepillo-para-amoladora-trenzado-heavy-for-me.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Cepi.Llo.S P-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-cubrediscos-p-gws-14-125-cie-5",
@@ -19932,11 +20108,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Llave de Pernos para Amoladoras - M10",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-llave-de-pernos-para-amoladoras-m10-llave-de.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Otro.S A.Cce-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-discos-de-sierra-circular-t24-standard-for-wood",
@@ -19977,11 +20154,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Discos de Sierra Circular - - T24 - Stan",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-discos-de-sierra-circular-t24-standard-for.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Disc.Os .De -000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-discos-de-sierra-circular-24-dientes-standard-for-wood",
@@ -20021,11 +20199,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Discos de Sierra Circular - - 24 Dientes",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-discos-de-sierra-circular-24-dientes-stand.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Disc.Os .De -000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-discos-de-sierra-circular-7-40-dientes-atb-optiline-for-wood",
@@ -20065,11 +20244,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Discos de Sierra Circular - 7 '' - 40 Di",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-discos-de-sierra-circular-7-40-dientes-atb.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Disc.Os .De -000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-discos-de-sierra-circular-7-60-dientes-atb-optiline-for-wood",
@@ -20109,11 +20289,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Discos de Sierra Circular - 7 '' - 60 Di",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-discos-de-sierra-circular-7-60-dientes-atb.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Disc.Os .De -000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-discos-de-sierra-circular-9-24-dientes-atb-optiline-for-wood",
@@ -20153,11 +20334,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Discos de Sierra Circular - 9 '' - 24 Di",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-discos-de-sierra-circular-9-24-dientes-atb.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Disc.Os .De -000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-discos-de-sierra-circular-9-40-dientes-atb-optiline-for-wood",
@@ -20197,11 +20379,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Discos de Sierra Circular - 9 '' - 40 Di",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-discos-de-sierra-circular-9-40-dientes-atb.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Disc.Os .De -000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-disco-de-sierra-circular-7-24-dientes-atb-eco-for-wood",
@@ -20241,11 +20424,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Disco de Sierra Circular - 7 '' - 24 Die",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-disco-de-sierra-circular-7-24-dientes-atb-.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Disc.Os .De -000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-disco-de-sierra-circular-7-40-dientes-atb-eco-for-wood",
@@ -20285,11 +20469,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Disco de Sierra Circular - 7 '' - 40 Die",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-disco-de-sierra-circular-7-40-dientes-atb-.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Disc.Os .De -000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-disco-de-sierra-circular-7-60-dientes-atb-eco-for-wood",
@@ -20329,11 +20514,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Disco de Sierra Circular - 7 '' - 60 Die",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-disco-de-sierra-circular-7-60-dientes-atb-.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Disc.Os .De -000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-disco-de-sierra-circular-9-60-dientes-atb-eco-for-wood",
@@ -20373,11 +20559,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Disco de Sierra Circular - 9 '' - 60 Die",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-disco-de-sierra-circular-9-60-dientes-atb-.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Disc.Os .De -000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-disco-de-sierra-circular-10-40-dientes-atb-eco-for-wood",
@@ -20417,11 +20604,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Disco de Sierra Circular - 10'' - 40 Die",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-disco-de-sierra-circular-10-40-dientes-atb-.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Disc.Os .De -000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-disco-de-sierra-circular-10-60-dientes-atb-eco-for-wood",
@@ -20461,11 +20649,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Disco de Sierra Circular - 10'' - 60 Die",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-disco-de-sierra-circular-10-60-dientes-atb-.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Disc.Os .De -000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-disco-de-sierra-circular-10-80-dientes-atb-eco-for-wood",
@@ -20505,11 +20694,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Disco de Sierra Circular - 10'' - 80 Die",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-disco-de-sierra-circular-10-80-dientes-atb-.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Disc.Os .De -000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-caja-con-10-discos-de-sierra-circular-7-24-dientes-atb-eco-f",
@@ -20549,11 +20739,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Caja con 10 Discos de Sierra Circular - ",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-caja-con-10-discos-de-sierra-circular-7-24.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Disc.Os .De -000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-caja-con-10-discos-de-sierra-circular-7-40-dientes-atb-eco-f",
@@ -20593,11 +20784,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Caja con 10 Discos de Sierra Circular - ",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-caja-con-10-discos-de-sierra-circular-7-40.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Disc.Os .De -000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-discos-de-sierra-circular-7-60-dientes-hltcg-multimaterial",
@@ -20637,11 +20829,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Discos de Sierra Circular - 7 '' - 60 Di",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-discos-de-sierra-circular-7-60-dientes-hlt.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Disc.Os .De -000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-discos-de-sierra-circular-10-80-dientes-hltcg-multimaterial",
@@ -20681,11 +20874,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Discos de Sierra Circular - 10'' - 80 Di",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-discos-de-sierra-circular-10-80-dientes-hlt.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Disc.Os .De -000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-discos-de-sierra-circular-10-100-dientes-hltcg-multimaterial",
@@ -20725,11 +20919,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Discos de Sierra Circular - 10'' - 100 D",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-discos-de-sierra-circular-10-100-dientes-hl.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Disc.Os .De -000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-discos-de-sierra-circular-10-120-dientes-hltcg-multimaterial",
@@ -20769,11 +20964,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Discos de Sierra Circular - 10'' - 120 D",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-discos-de-sierra-circular-10-120-dientes-hl.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Disc.Os .De -000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-discos-de-sierra-circular-12-120-dientes-hltcg-multimaterial",
@@ -20813,11 +21009,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Discos de Sierra Circular - 12'' - 120 D",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-discos-de-sierra-circular-12-120-dientes-hl.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Disc.Os .De -000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-discos-de-sierra-circular-14-100-dientes-hltcg-multimaterial",
@@ -20857,11 +21054,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Discos de Sierra Circular - 14'' - 100 D",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-discos-de-sierra-circular-14-100-dientes-hl.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Disc.Os .De -000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-disco-serra-circular-ex-sh-h-50",
@@ -20905,7 +21103,8 @@
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Disc.O D.E S-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-disco-serra-circular-ex-sh-h-60",
@@ -20945,11 +21144,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Disco Serra Circular EX SH H -60",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-disco-serra-circular-ex-sh-h-60-disco-serra-c.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Disc.O D.E S-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-disco-serra-circular-ex-sh-h-30",
@@ -20989,11 +21189,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Disco Serra Circular EX SH H -30",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-disco-serra-circular-ex-sh-h-30-disco-serra-c.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Disc.O D.E S-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-hoja-de-calar-t234x-madera-corte-extra-limpio-x-3u",
@@ -21028,11 +21229,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Hoja de Calar - T234X - Madera (Corte Ex",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-hoja-de-calar-t234x-madera-corte-extra-limp.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Hoja.S D.E C-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-hoja-de-calar-t308b-madera-corte-extra-limpio-x-5u",
@@ -21145,11 +21347,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Hoja de Calar - T101D - Madera (Corte Li",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-hoja-de-calar-t101d-madera-corte-limpio-x-.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Hoja.S D.E C-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-hoja-de-calar-t101b-madera-corte-limpio-x-5u",
@@ -21223,11 +21426,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Hoja de Calar - T101BR - Madera (Corte L",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-hoja-de-calar-t101br-madera-corte-limpio-di.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Hoja.S D.E C-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-hoja-de-calar-t121af-metal-corte-rapido-x-3u",
@@ -21340,11 +21544,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Hoja de Calar - T244D - Madera (Corte Rá",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-hoja-de-calar-t244d-madera-corte-rpido-x-5.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Hoja.S D.E C-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-hoja-de-calar-t344d-madera-corte-rapido-x-5u",
@@ -21418,11 +21623,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Hoja de Calar - U144D - Madera (Corte Rá",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-hoja-de-calar-u144d-madera-corte-rpido-x-3.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Hoja.S D.E C-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-hoja-de-calar-318gfs-inox-chapas-finas-medianas-y-gruesas-x-",
@@ -22276,11 +22482,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "S922HF - Madera con clavos/ Metal, chapa",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-s922hf-madera-con-clavos-metal-chapas-de-met.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Hoja.S D.E S-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-s1411df-madera-con-clavos-metal-tablas-viruta-prensada-gfk-e",
@@ -22315,11 +22522,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "S1411DF - Madera con clavos/ Metal, tabl",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-s1411df-madera-con-clavos-metal-tablas-virut.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Hoja.S D.E S-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-s1122hf-madera-con-clavos-metal-chapas-tubos-perfiles-de-alu",
@@ -22393,11 +22601,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "S1122VF - Madera con clavos/ Metal, chap",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-s1122vf-madera-con-clavos-metal-chapas-de-me.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Hoja.S D.E S-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-s1531l-madera-gruesa-y-lena-x2u",
@@ -22432,11 +22641,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "S1531L - Madera gruesa y leña - x2u",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-s1531l-madera-gruesa-y-lea-x2u-s1531l-made.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Hoja.S D.E S-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-s644d-madera-de-obra-tableros-mdf-madera-contrachapada-plast",
@@ -22471,11 +22681,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "S644D - Madera de obra, tableros, MDF, m",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-s644d-madera-de-obra-tableros-mdf-madera-con.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Hoja.S D.E S-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-s1531l-madera-gruesa-madera-viva-x-5u",
@@ -22510,11 +22721,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "S1531L - Madera gruesa, madera viva - x ",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-s1531l-madera-gruesa-madera-viva-x-5u-s1531.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Hoja.S D.E S-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-s2345x-madera-mdf-y-aglomerados-corte-limpio-x-2u",
@@ -22715,11 +22927,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Fresa Ranura Recta - \" - 2 Filos",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-fresa-ranura-recta-2-filos-fresa-ranura-re.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Fres.As .Sta-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-fresa-ranura-recta-1-4-2-filos",
@@ -22754,11 +22967,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Fresa Ranura Recta - 1/ 4\" - 2 Filos",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-fresa-ranura-recta-1-4-2-filos-fresa-ranura.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Fres.As .Sta-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-fresa-ranura-recta-3-8-2-filos",
@@ -22793,11 +23007,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Fresa Ranura Recta - 3/ 8\" - 2 Filos",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-fresa-ranura-recta-3-8-2-filos-fresa-ranura.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Fres.As .Sta-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-fresa-ranura-recta-1-2-2-filos",
@@ -22832,11 +23047,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Fresa Ranura Recta - 1/ 2\" - 2 Filos",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-fresa-ranura-recta-1-2-2-filos-fresa-ranura.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Fres.As .Sta-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-fresa-ranura-recta-3-4-2-filos",
@@ -22871,11 +23087,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Fresa Ranura Recta - 3/ 4\" - 2 Filos",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-fresa-ranura-recta-3-4-2-filos-fresa-ranura.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Fres.As .Sta-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-fresa-ranura-en-v",
@@ -22916,11 +23133,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Fresa Ranura en \"V\" - \"",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-fresa-ranura-en-v-fresa-ranura-en-v-.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Fres.As .Sta-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-fresa-media-cana",
@@ -23212,11 +23430,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Fresa Óvolo - 1\"",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-fresa-volo-1-fresa-volo-1-.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Fres.As .Sta-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-fresa-para-biselar-con-rodamiento-45",
@@ -23877,11 +24096,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Plato adherente para Velcro Lijas Excént",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-plato-adherente-para-velcro-lijas-excntricas-.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Plat.Os .Adh-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-plato-adherente-para-velcro-lijas-excentricas-gex-150-ac",
@@ -23917,11 +24137,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Plato adherente para Velcro Lijas Excént",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-plato-adherente-para-velcro-lijas-excntricas-.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Plat.Os .Adh-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-lija-orbital-grano-60-best-for-wood-x-10u",
@@ -23962,11 +24183,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Lija Orbital - Grano 60 - Best for Wood ",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-lija-orbital-grano-60-best-for-wood-x-10u-.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Lija.S P.Ara-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-lija-orbital-grano-80-best-for-wood-x-10u",
@@ -24007,11 +24229,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Lija Orbital - Grano 80 - Best for Wood ",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-lija-orbital-grano-80-best-for-wood-x-10u-.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Lija.S P.Ara-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-microfiltro-plastico-para-extraccion-de-polvo-hw2-p-pss",
@@ -24095,11 +24318,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Lija de Banda - Grano 40 - Best for Wood",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-lija-de-banda-grano-40-best-for-wood-x-3u-.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Lija.S P.Ara-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-lija-de-banda-grano-60-best-for-wood-x-3u",
@@ -24139,11 +24363,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Lija de Banda - Grano 60 - Best for Wood",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-lija-de-banda-grano-60-best-for-wood-x-3u-.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Lija.S P.Ara-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-lija-de-banda-grano-80-best-for-wood-x-3u",
@@ -24183,11 +24408,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Lija de Banda - Grano 80 - Best for Wood",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-lija-de-banda-grano-80-best-for-wood-x-3u-.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Lija.S P.Ara-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-lija-de-banda-grano-100-best-for-wood-x-3u",
@@ -24227,11 +24453,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Lija de Banda - Grano 100 - Best for Woo",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-lija-de-banda-grano-100-best-for-wood-x-3u.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Lija.S P.Ara-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-lija-de-banda-grano-120-best-for-wood-x-3u",
@@ -24271,11 +24498,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Lija de Banda - Grano 120 - Best for Woo",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-lija-de-banda-grano-120-best-for-wood-x-3u.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Lija.S P.Ara-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-lija-de-banda-grano-150-best-for-wood-x-3u",
@@ -24315,11 +24543,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Lija de Banda - Grano 150 - Best for Woo",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-lija-de-banda-grano-150-best-for-wood-x-3u.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Lija.S P.Ara-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-hoja-de-lija-al-agua-black-for-stone-grano-100",
@@ -24358,7 +24587,8 @@
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Lija.S M.Anu-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-hoja-de-lija-al-agua-black-for-stone-grano-150",
@@ -24393,11 +24623,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Hoja de Lija al Agua - Black for Stone -",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-hoja-de-lija-al-agua-black-for-stone-grano-15.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Lija.S M.Anu-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-hoja-de-lija-al-agua-black-for-stone-grano-220",
@@ -24432,11 +24663,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Hoja de Lija al Agua - Black for Stone -",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-hoja-de-lija-al-agua-black-for-stone-grano-22.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Lija.S M.Anu-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-hoja-de-lija-al-agua-black-for-stone-grano-280",
@@ -24471,11 +24703,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Hoja de Lija al Agua - Black for Stone -",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-hoja-de-lija-al-agua-black-for-stone-grano-28.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Lija.S M.Anu-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-hoja-de-lija-al-agua-black-for-stone-grano-320",
@@ -24510,11 +24743,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Hoja de Lija al Agua - Black for Stone -",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-hoja-de-lija-al-agua-black-for-stone-grano-32.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Lija.S M.Anu-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-hoja-de-lija-al-agua-black-for-stone-grano-360",
@@ -24549,11 +24783,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Hoja de Lija al Agua - Black for Stone -",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-hoja-de-lija-al-agua-black-for-stone-grano-36.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Lija.S M.Anu-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-hoja-de-lija-al-agua-black-for-stone-grano-400",
@@ -24588,11 +24823,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Hoja de Lija al Agua - Black for Stone -",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-hoja-de-lija-al-agua-black-for-stone-grano-40.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Lija.S M.Anu-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-hoja-de-lija-al-agua-black-for-stone-grano-500",
@@ -24627,11 +24863,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Hoja de Lija al Agua - Black for Stone -",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-hoja-de-lija-al-agua-black-for-stone-grano-50.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Lija.S M.Anu-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-hoja-de-lija-para-pintura-white-for-paint-carburo-de-silicio",
@@ -24670,7 +24907,8 @@
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Hoja.S D.E L-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-hoja-de-lija-para-pintura-white-for-paint-carburo-de-si-2",
@@ -24705,11 +24943,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Hoja de Lija para Pintura - White for Pa",
-    "image": null,
+    "image": "/productos/acc-r635-128-hq.png",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Hoja.S D.E L-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-hoja-de-lija-para-pintura-white-for-paint-carburo-de-si-3",
@@ -24744,11 +24983,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Hoja de Lija para Pintura - White for Pa",
-    "image": null,
+    "image": "/productos/acc-r635-128-hq.png",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Hoja.S D.E L-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-hoja-de-lija-para-pintura-white-for-paint-carburo-de-si-4",
@@ -24783,11 +25023,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Hoja de Lija para Pintura - White for Pa",
-    "image": null,
+    "image": "/productos/acc-r635-128-hq.png",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Hoja.S D.E L-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-hoja-de-lija-para-pintura-white-for-paint-carburo-de-si-5",
@@ -24822,11 +25063,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Hoja de Lija para Pintura - White for Pa",
-    "image": null,
+    "image": "/productos/acc-r635-128-hq.png",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Hoja.S D.E L-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-hoja-de-lija-para-pintura-white-for-paint-carburo-de-si-6",
@@ -24861,11 +25103,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Hoja de Lija para Pintura - White for Pa",
-    "image": null,
+    "image": "/productos/acc-r635-128-hq.png",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Hoja.S D.E L-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-hoja-de-lija-para-pintura-white-for-paint-carburo-de-si-7",
@@ -24900,11 +25143,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Hoja de Lija para Pintura - White for Pa",
-    "image": null,
+    "image": "/productos/acc-r635-128-hq.png",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Hoja.S D.E L-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-hoja-de-lija-para-pintura-white-for-paint-carburo-de-si-8",
@@ -24939,11 +25183,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Hoja de Lija para Pintura - White for Pa",
-    "image": null,
+    "image": "/productos/acc-r635-128-hq.png",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Hoja.S D.E L-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-hoja-de-lija-para-pintura-white-for-paint-carburo-de-si-9",
@@ -24978,11 +25223,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Hoja de Lija para Pintura - White for Pa",
-    "image": null,
+    "image": "/productos/acc-r635-128-hq.png",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Hoja.S D.E L-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-pano-abrasivo-expert-for-finish-x-20u-verde",
@@ -25017,11 +25263,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Paño Abrasivo - Expert for Finish - x 20",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-pao-abrasivo-expert-for-finish-x-20u-verde-.jpg",
     "priceLabel": "Consultar precio",
     "gama": "EXPERT",
     "segment": "Paño.S A.Bra-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-pano-abrasivo-acabado-rustico-best-for-finish-x-20u-cafe",
@@ -25178,11 +25425,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Rollo Abrasivo Limpieza Gral",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-rollo-abrasivo-limpieza-gral-rollo-abrasivo-l.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Paño.S A.Bra-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-rollo-abrasivo-acabado-brillante",
@@ -25222,11 +25470,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Rollo Abrasivo Acabado Brillante",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-rollo-abrasivo-acabado-brillante-rollo-abrasi.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Paño.S A.Bra-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-rollo-abrasivo-para-acabado-rustico",
@@ -25266,11 +25515,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Rollo Abrasivo Para Acabado Rústico",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-rollo-abrasivo-para-acabado-rstico-rollo-abra.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Paño.S A.Bra-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-esponja-abrasiva-taco-grano-medio-x-50u",
@@ -25305,11 +25555,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Esponja Abrasiva Taco - Grano Medio - x ",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-esponja-abrasiva-taco-grano-medio-x-50u-esp.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Espo.Jas. Ab-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-esponja-abrasiva-taco-grano-fino-x-50u",
@@ -25344,11 +25595,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Esponja Abrasiva Taco - Grano Fino - x 5",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-esponja-abrasiva-taco-grano-fino-x-50u-espo.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Espo.Jas. Ab-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-esponja-abrasiva-taco-grano-superfino-x-50u",
@@ -25383,11 +25635,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Esponja Abrasiva Taco - Grano Superfino ",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-esponja-abrasiva-taco-grano-superfino-x-50u-.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Espo.Jas. Ab-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-esponja-abrasiva-para-perfiles-grano-fino-x-50u",
@@ -25422,11 +25675,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Esponja Abrasiva para Perfiles - Grano F",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-esponja-abrasiva-para-perfiles-grano-fino-x.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Espo.Jas. Ab-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-cuchilla-universal-para-cepillos-electricos-gho-20-82",
@@ -25539,11 +25793,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Hoja de Sierra de Inmersión para Metal -",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-hoja-de-sierra.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Sier.Ras., D-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-hoja-de-sierra-de-inmersion-para-madera-aiz-32-ec-hcs",
@@ -25578,11 +25833,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Hoja de Sierra de Inmersión para Madera ",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-hoja-de-sierra.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Sier.Ras., D-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-hoja-de-sierra-de-inmersion-para-madera-y-metal-aiz-28-ec-bi",
@@ -25617,11 +25873,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Hoja de Sierra de Inmersión para Madera ",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-hoja-de-sierra.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Sier.Ras., D-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-hoja-de-sierra-standard-for-wood-20d",
@@ -25661,11 +25918,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Hoja de Sierra - STANDARD FOR WOOD - 20D",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-hoja-de-sierra.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Sier.Ras., D-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-hoja-de-sierra-sandard-for-wood-12d",
@@ -25705,11 +25963,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Hoja de Sierra - SANDARD FOR WOOD - 12D",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-hoja-de-sierra.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Sier.Ras., D-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-espatula-flexible-multimaterial",
@@ -25783,11 +26042,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Hoja de Sierra de Inmersión para Madera ",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-hoja-de-sierra.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Sier.Ras., D-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-disco-de-corte-para-madera-y-metal-acz-85-eb-bim",
@@ -25822,11 +26082,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Disco de Corte para Madera y Metal - ACZ",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-disco-de-corte.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Sier.Ras., D-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-disco-de-desbaste-abrasivo-para-juntas-de-azulejos-acz-85-rt",
@@ -25861,11 +26122,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Disco de Desbaste Abrasivo para Juntas d",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-disco-de-desbaste-abrasivo-para-juntas-de-azu.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Sier.Ras., D-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-espatula-rigida-para-romover-agramasa-mortero-contreto-coloc",
@@ -25944,11 +26206,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Set de para Madera - Hojas de Sierra de ",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-set-de-para-madera-hojas-de-sierra-de-inmers.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Sets. Mu.Lti-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-set-de-para-azulejos-hojas-de-sierra-de-inmersion-disco-cort",
@@ -26203,11 +26466,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Boquilla para Pistolia de Calor Reductor",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-boquilla-para-pistolia-de-calor-reduct.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Otro.S A.Cce-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-cuchillas-para-tijeras-gsc-2-8",
@@ -26242,11 +26506,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Cuchillas para Tijeras GSC 2,8",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-cuchillas-para-tijeras-gsc-28-cuchillas-para-.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Otro.S A.Cce-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-broca-plana-self-cut-speed-10",
@@ -26510,7 +26775,8 @@
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Mechas Planas / Paleta Para Madera ( Self Cut )",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-broca-plana-self-cut-speed-22",
@@ -26901,7 +27167,8 @@
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Mech.As .Mul-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-broca-cyl-9-multiconstruccion-6x60x100",
@@ -26936,11 +27203,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Broca CYL-9 MultiConstrucción 6x60x100",
-    "image": null,
+    "image": "/productos/acc-r724-133-hq.png",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Mech.As .Mul-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-broca-cyl-9-multiconstruccion-8x80x120",
@@ -26975,11 +27243,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Broca CYL-9 MultiConstrucción 8x80x120",
-    "image": null,
+    "image": "/productos/acc-r724-133-hq.png",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Mech.As .Mul-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-broca-cyl-9-multiconstruccion-10x80x120",
@@ -27014,11 +27283,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Broca CYL-9 MultiConstrucción 10x80x120",
-    "image": null,
+    "image": "/productos/acc-r724-133-hq.png",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Mech.As .Mul-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-broca-cyl-9-multiconstruccion-12x90x150",
@@ -27053,11 +27323,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Broca CYL-9 MultiConstrucción 12x90x150",
-    "image": null,
+    "image": "/productos/acc-r724-133-hq.png",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Mech.As .Mul-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-broca-multiconstruction-cyl-9-8mmx80x120",
@@ -27179,7 +27450,8 @@
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Sets. Me.Cha-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-disco-de-lija-c470-g100-8-huecos",
@@ -27223,7 +27495,8 @@
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Disc.O D.E L-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-disco-de-lija-c470-g120-8-huecos",
@@ -27263,11 +27536,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Disco de lija C470 G120 - 8 huecos",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-disco-de-lija-c470-g120-8-huecos-disco-de-li.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Disc.O D.E L-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-disco-de-lija-c470-g180-8-huecos",
@@ -27307,11 +27581,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Disco de lija C470 G180 - 8 huecos",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-disco-de-lija-c470-g180-8-huecos-disco-de-li.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Disc.O D.E L-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-disco-de-lija-c470-g240-8-huecos",
@@ -27351,11 +27626,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Disco de lija C470 G240- 8 huecos",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-disco-de-lija-c470-g240-8-huecos-disco-de-lij.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Disc.O D.E L-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-disco-de-lija-c470-g40-8-huecos",
@@ -27396,11 +27672,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Disco de lija C470 G40 8 huecos",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-disco-de-lija-c470-g40-8-huecos-disco-de-lija.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Disc.O D.E L-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-disco-de-lija-c470-g400-8-huecos",
@@ -27440,11 +27717,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Disco de lija C470 G400 - 8 huecos",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-disco-de-lija-c470-g400-8-huecos-disco-de-li.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Disc.O D.E L-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-disco-de-lija-c470-g60-8-huecos",
@@ -27484,11 +27762,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Disco de lija C470 G60 - 8 huecos",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-disco-de-lija-c470-g60-8-huecos-disco-de-lij.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Disc.O D.E L-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-disco-de-lija-c470-g80-8-huecos",
@@ -27528,11 +27807,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Disco de lija C470 G80 - 8 huecos",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-disco-de-lija-c470-g80-8-huecos-disco-de-lij.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Disc.O D.E L-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-disco-de-lija-c470-g60-6-huecos",
@@ -27572,11 +27852,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Disco de lija C470 G60 6 huecos",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-disco-de-lija-c470-g60-6-huecos-disco-de-lija.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Disc.O D.E L-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-disco-de-lija-c470-g80-6-huecos",
@@ -27616,11 +27897,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Disco de lija C470 G80 6 huecos",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-disco-de-lija-c470-g80-6-huecos-disco-de-lija.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Disc.O D.E L-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-disco-de-lija-exc470-g80",
@@ -27660,11 +27942,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Disco de lija EXC470, G80",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-disco-de-lija-exc470-g80-disco-de-lija-exc470.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Disc.O D.E L-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-disco-de-lija-exc470-g60",
@@ -27705,11 +27988,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Disco de lija EXC470, G60",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-disco-de-lija-exc470-g60-disco-de-lija-exc470.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Disc.O D.E L-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-disco-de-lija-exc470-g400",
@@ -27749,11 +28033,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Disco de lija EXC470, G400",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-disco-de-lija-exc470-g400-disco-de-lija-exc47.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Disc.O D.E L-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-disco-de-lija-expert-c470",
@@ -27788,11 +28073,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Disco de Lija expert C470",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-disco-de-lija-expert-c470-disco-de-lija-exper.jpg",
     "priceLabel": "Consultar precio",
     "gama": "EXPERT",
     "segment": "Disc.O D.E L-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-set-esponja-abrasiva-s470-3-pzs",
@@ -27831,7 +28117,8 @@
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Disc.O D.E L-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-esponja-abrasiva-s470-69x26x97mm-fine",
@@ -27866,11 +28153,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Esponja abrasiva S470 69X26X97MM FINE",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-esponja-abrasiva-s470-mm-fine-esponja-abrasiv.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Disc.O D.E L-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-disco-expert-o780-g80-6x",
@@ -27911,11 +28199,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "DISCO EXPERT O780, , G80, 6X",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-disco-expert-o780-g80-6x-disco-expert-o780-.jpg",
     "priceLabel": "Consultar precio",
     "gama": "EXPERT",
     "segment": "Disc.O D.E L-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-disco-expert-o780-g60-6x",
@@ -27956,11 +28245,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "DISCO EXPERT O780, , G60, 6X",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-disco-expert-o780-g60-6x-disco-expert-o780-.jpg",
     "priceLabel": "Consultar precio",
     "gama": "EXPERT",
     "segment": "Disc.O D.E L-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-disco-expert-o780-g400-6x",
@@ -28001,11 +28291,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "DISCO EXPERT O780, , G400, 6X",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-disco-expert-o780-g400-6x-disco-expert-o780-.jpg",
     "priceLabel": "Consultar precio",
     "gama": "EXPERT",
     "segment": "Disc.O D.E L-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-disco-expert-o780-g320-6x",
@@ -28050,7 +28341,8 @@
     "priceLabel": "Consultar precio",
     "gama": "EXPERT",
     "segment": "Disc.O D.E L-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-disco-expert-o780-g240-6x",
@@ -28091,11 +28383,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "DISCO EXPERT O780, , G240, 6X",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-disco-expert-o780-g240-6x-disco-expert-o780-.jpg",
     "priceLabel": "Consultar precio",
     "gama": "EXPERT",
     "segment": "Disc.O D.E L-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-disco-expert-o780-g180-6x",
@@ -28136,11 +28429,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "DISCO EXPERT O780, , G180, 6X",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-disco-expert-o780-g180-6x-disco-expert-o780-.jpg",
     "priceLabel": "Consultar precio",
     "gama": "EXPERT",
     "segment": "Disc.O D.E L-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-disco-expert-o780-g150-6x",
@@ -28181,11 +28475,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "DISCO EXPERT O780, , G150, 6X",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-disco-expert-o780-g150-6x-disco-expert-o780-.jpg",
     "priceLabel": "Consultar precio",
     "gama": "EXPERT",
     "segment": "Disc.O D.E L-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-disco-expert-o780-g120-6x",
@@ -28226,11 +28521,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "DISCO EXPERT O780, , G120, 6X",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-disco-expert-o780-g120-6x-disco-expert-o780-.jpg",
     "priceLabel": "Consultar precio",
     "gama": "EXPERT",
     "segment": "Disc.O D.E L-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-disco-expert-o780-9x",
@@ -28271,11 +28567,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "DISCO EXPERT O780, , 9X",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-disco-expert-o780-9x-disco-expert-o780-9x.jpg",
     "priceLabel": "Consultar precio",
     "gama": "EXPERT",
     "segment": "Disc.O D.E L-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-hoja-expert-w480-g320-10x",
@@ -28319,7 +28616,8 @@
     "priceLabel": "Consultar precio",
     "gama": "EXPERT",
     "segment": "Hoja.S D.E L-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-hoja-expert-w480-g240-10x",
@@ -28359,11 +28657,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "HOJA EXPERT W480, , G240, 10X",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-hoja-expert-w480-g240-10x-hoja-expert-w480-.jpg",
     "priceLabel": "Consultar precio",
     "gama": "EXPERT",
     "segment": "Hoja.S D.E L-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-hoja-expert-w480-g180-10x",
@@ -28403,11 +28702,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "HOJA EXPERT W480, , G180, 10X",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-hoja-expert-w480-g180-10x-hoja-expert-w480-.jpg",
     "priceLabel": "Consultar precio",
     "gama": "EXPERT",
     "segment": "Hoja.S D.E L-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-hoja-expert-w480-g120-10x",
@@ -28447,11 +28747,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "HOJA EXPERT W480, , G120, 10X",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-hoja-expert-w480-g120-10x-hoja-expert-w480-.jpg",
     "priceLabel": "Consultar precio",
     "gama": "EXPERT",
     "segment": "Hoja.S D.E L-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-hoja-expert-w480-9x",
@@ -28491,11 +28792,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "HOJA EXPERT W480, , 9X",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-hoja-expert-w480-9x-hoja-expert-w480-9x.jpg",
     "priceLabel": "Consultar precio",
     "gama": "EXPERT",
     "segment": "Hoja.S D.E L-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-set-esponja-abrasiva-s471-3-pzs",
@@ -28530,11 +28832,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Set Esponja abrasiva S471 3 pzs",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-set-esponja-abrasiva-s471-3-pzs-set-esponja-a.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Espo.Nja.S A-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-esponja-abrasiva-s471-super-fino-50-uni",
@@ -28569,11 +28872,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Esponja abrasiva S471 Super Fino 50 uni",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-esponja-abrasiva-s471-super-fino-50-uni-espon.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Espo.Nja.S A-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-esponja-abrasiva-s471-69x26x97mm-medium",
@@ -28608,11 +28912,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Esponja abrasiva S471 69X26X97MM MEDIUM",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-esponja-abrasiva-s471-mm-medium-esponja-abras.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Espo.Nja.S A-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-esponja-abrasiva-s471-69x26x97mm-fine",
@@ -28647,11 +28952,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Esponja abrasiva S471 69X26X97MM FINE",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-esponja-abrasiva-s471-mm-fine-esponja-abrasiv.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Espo.Nja.S A-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-esponja-abrasiva-s473-98x13x120mm-fine",
@@ -28686,11 +28992,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Esponja abrasiva S473 98X13X120MM FINE",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-esponja-abrasiva-s473-mm-fine-esponja-abrasiv.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Espo.Nja.S A-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-esponja-abrasiva-s473-98x13x120mm-sf",
@@ -28725,11 +29032,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Esponja abrasiva S473 98X13X120MM SF",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-esponja-abrasiva-s473-mm-sf-esponja-abrasiva-.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Espo.Nja.S A-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-disco-corte-multiwheel-4",
@@ -28773,7 +29081,8 @@
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Disc.Os .Mul-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-disco-corte-multiwheel-5",
@@ -28808,11 +29117,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Disco corte Multiwheel 5\"",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-disco-corte-multiwheel-5-disco-corte-multiwhe.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Disc.Os .Mul-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-disco-corte-carbide-multi-wheel",
@@ -28852,11 +29162,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "DISCO CORTE CARBIDE MULTI WHEEL",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-disco-corte-carbide-multi-wheel-disco-corte-c.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Disc.Os .Mul-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-n880-grosso-a",
@@ -28900,7 +29211,8 @@
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Paño.S A.Bra-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-n880-medio-s",
@@ -28940,11 +29252,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "N880 MÉDIO S",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-n880-mdio-s-n880-mdio-s.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Paño.S A.Bra-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-n880-multiuso",
@@ -28984,11 +29297,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "N880 MULTIUSO",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-n880-multiuso-n880-multiuso.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Paño.S A.Bra-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-n880-uso-geral",
@@ -29028,11 +29342,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "N880 USO GERAL",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-n880-uso-geral-n880-uso-geral.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Paño.S A.Bra-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-n880-superfino-a",
@@ -29072,11 +29387,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "N880 SUPERFINO A",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-n880-superfino-a-n880-superfino-a.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Paño.S A.Bra-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-expert-hex-9-hardceramic",
@@ -29166,7 +29482,8 @@
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "SIERRAS COPA Multimaterial",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-hoja-de-calar-t345xf-madera-y-metal",
@@ -29606,7 +29923,8 @@
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Disc.Os .De -000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-hoja-sierra-std-for-wood-12d",
@@ -29691,11 +30009,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Disco de Sierra Circular - - T24 - Stand",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-disco-de-sierra-circular-t24-standar-for-w.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Disc.Os .De -000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-disco-de-sierra-circular-24d-standar-for-wood",
@@ -29735,11 +30054,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "Disco de Sierra Circular - - 24D - Stand",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-disco-de-sierra-circular-24d-standar-for-w.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Disc.Os .De -000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-disco-corte-abrasivo-pro-metal",
@@ -29780,11 +30100,12 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "DISCO CORTE ABRASIVO PRO METAL",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-disco-corte-abrasivo-pro-metal-disco-corte-ab.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Ind .40.-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   },
   {
     "id": "acc-disco-de-corte-reto-pro-ind40",
@@ -29825,10 +30146,11 @@
     "batterySystem": null,
     "officialUrl": "https://www.bosch-professional.com/uy/es/",
     "imagePlaceholder": "DISCO DE CORTE RETO PRO IND40",
-    "image": null,
+    "image": "/productos/web/web-acc-fam-disco-de-corte.jpg",
     "priceLabel": "Consultar precio",
     "gama": "Professional",
     "segment": "Ind .40.-000",
-    "source": "ACCESORIOS Mayo 2026 (agrupado)"
+    "source": "ACCESORIOS Mayo 2026 (agrupado)",
+    "imageCredit": "Bosch Professional (sitio oficial)"
   }
 ]

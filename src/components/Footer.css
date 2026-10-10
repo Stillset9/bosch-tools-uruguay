@@ -81,8 +81,22 @@
   color: rgba(255, 255, 255, 0.55);
 }
 
+.site-footer__bottom-inner {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 0.75rem 1.5rem;
+}
+
 .site-footer__bottom p {
   margin: 0;
+}
+
+.site-footer__credit {
+  color: rgba(255, 255, 255, 0.72);
+  font-weight: 500;
+  letter-spacing: 0.02em;
 }
 
 @media (max-width: 900px) {

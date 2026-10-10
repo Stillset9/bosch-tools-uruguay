@@ -39,4 +39,6 @@ export const SITE = {
   /** Aclaración: este proyecto no es la tienda oficial del fabricante. */
   disclaimer:
     'Sitio informativo independiente dedicado a herramientas Bosch Professional para el mercado uruguayo. No es la tienda oficial de Robert Bosch ni un canal de venta autorizado por el fabricante. Precios, stock y disponibilidad deben confirmarse con distribuidores oficiales.',
+  author: 'Pablo Olivera',
+  authorNote: 'Autoría: Pablo Olivera · Web en desarrollo.',
 } as const;
